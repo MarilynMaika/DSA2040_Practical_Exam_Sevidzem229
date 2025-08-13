@@ -1,11 +1,15 @@
 # **Data Warehousing & Mining Project Summary**
 This project demonstrates the end-to-end process of data warehousing and mining using the Iris dataset, a synthetic retail dataset and a synthetic transactions data set. The workflow covers data preprocessing, clustering, classification, association rule mining, and ETL (Extract, Transform, Load) for a retail data warehouse.
-- All data sets can found in the [data](data) folder
+- All data sets can be found in the [data](data) folder
 - All images can be found in the [images](images) folder
 - This project provides a practical demonstration of data preparation, mining, and warehousing techniques suitable for real world applications.
 
 # Section 1: Data Warehousing
 ## TASK 1
+![Alt text](images/schema_diagram.png)
+### *Explain why you chose star schema over snowflake*
+- I chose a star schema because it is simpler and faster for analytical queries, requiring fewer joins compared to a snowflake schema. Its denormalized structure makes it easier for business users and BI tools to understand, improving usability for reporting and dashboards. Also, the star schema’s design is optimized for aggregations and OLAP operations, which are common in retail analytics
+
 
 The  SQL script [table_creation.sql](table_creation) defines the schema for a star-schema retail data warehouse, including dimension and fact tables.
 
@@ -52,9 +56,6 @@ The  SQL script [table_creation.sql](table_creation) defines the schema for a st
 ![Alt text](images/db_view1.png) ![Alt text](images/db_view2.png)
 
 
-![Alt text](images/schema_diagram.png)
-### *Explain why you chose star schema over snowflake*
-- I chose a star schema because it is simpler and faster for analytical queries, requiring fewer joins compared to a snowflake schema. Its denormalized structure makes it easier for business users and BI tools to understand, improving usability for reporting and dashboards. Also, the star schema’s design is optimized for aggregations and OLAP operations, which are common in retail analytics
 
 ## Usage
 
@@ -234,6 +235,16 @@ The notebook [mining_iris_basket.ipynb](mining_iris_basket.ipynb) demonstrates t
 - Python (pandas, scikit-learn, matplotlib, seaborn, mlxtend, faker, sqlite3)
 - Jupyter Notebooks / VS Code
 
-Install dependencies with:
-```sh
-pip install pandas scikit-learn matplotlib mlxtend seaborn
+# General Usage Guide
+
+This project is organized into several notebooks and scripts, each focusing on a specific aspect of data warehousing and mining. Run individual files and scripts for results
+
+
+## 1. **Set Up the Environment**
+
+- Ensure you have Python 3.x installed.
+- Install required packages:
+  ```sh
+  pip install pandas scikit-learn matplotlib seaborn mlxtend faker 
+
+
