@@ -6,7 +6,8 @@ This project demonstrates the end-to-end process of data warehousing and mining 
 
 # Section 1: Data Warehousing
 ## TASK 1
-- I used a **one-to-many** relationship in the star schema because each item in a dimension table, like a single customer or product, can be linked to many transactions in the fact table. This makes it possible to store details once in the dimension table and then connect them to multiple sales records, saving space and making queries faster.
+- 
+I used a **one-to-many** relationship in the star schema because each item in a dimension table, like a single customer or product, can be linked to many transactions in the fact table. This makes it possible to store details once in the dimension table and then connect them to multiple sales records, saving space and making queries faster.
 
 ![Alt text](images/schema_diagram.png)
 ### *Explain why you chose star schema over snowflake*
