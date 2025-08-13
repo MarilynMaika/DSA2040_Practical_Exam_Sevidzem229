@@ -1,0 +1,969 @@
+InvoiceNo,StockCode,Description,Category,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,TotalSales
+800305,69470,Pen,Travel,20,2025-01-18 14:35:33,1.32,13905,Saint Pierre and Miquelon,26.4
+240814,44522,Laptop Sleeve,Clothing,7,2025-03-09 07:02:50,97.22,13478,Saint Vincent and the Grenadines,680.54
+734210,76542,Gloves,Travel,22,2025-07-04 23:25:57,91.35,93227,Burundi,2009.7
+629959,49117,Camping Tent,Office Supplies,4,2024-10-08 14:22:08,84.33,91070,Burundi,337.32
+563298,31174,Floor Mat,Office Supplies,28,2024-11-12 15:34:41,54.4,22280,Bouvet Island (Bouvetoya),1523.2
+824586,10074,Cutlery Set,Sports,35,2024-07-04 17:11:34,60.3,80284,Czech Republic,2110.5
+255287,12552,Charger,Home & Kitchen,3,2023-09-05 16:28:19,12.07,28289,Saint Pierre and Miquelon,36.21
+320281,50306,Belt,Clothing,43,2023-09-04 03:27:37,24.71,45093,Ecuador,1062.53
+526117,84364,Candle,Electronics,48,2023-10-23 18:36:21,94.75,30926,Burundi,4548.0
+938742,73699,Scarf,Office Supplies,27,2024-01-28 19:42:26,81.79,17331,Saint Pierre and Miquelon,2208.33
+920391,26483,Desk Lamp,Sports,43,2024-02-08 17:06:48,13.71,65392,Saint Vincent and the Grenadines,589.53
+925622,82063,Headphones,Office Supplies,25,2024-09-07 12:30:19,17.35,96673,Saint Vincent and the Grenadines,433.75
+956253,89507,Keychain,Clothing,23,2024-11-21 14:26:33,42.89,10851,Saint Vincent and the Grenadines,986.47
+792094,80686,Clock,Travel,22,2023-09-01 14:39:58,75.77,81482,Saint Pierre and Miquelon,1666.94
+392683,36365,Desk Organizer,Sports,33,2024-10-20 22:21:58,71.58,69429,Saint Vincent and the Grenadines,2362.14
+128941,98039,Slippers,Sports,17,2024-01-13 10:36:08,65.34,46421,Northern Mariana Islands,1110.78
+725550,77839,Tote Bag,Clothing,47,2025-02-18 03:34:22,45.7,57400,Czech Republic,2147.9
+636265,39451,Umbrella,Electronics,37,2024-12-28 18:43:26,7.34,28289,Czech Republic,271.58
+101773,87110,Watch,Office Supplies,35,2025-02-06 17:38:42,55.84,17331,Burundi,1954.4
+306606,38864,Sunglasses,Travel,5,2024-10-08 06:26:43,1.71,55082,Czech Republic,8.55
+795612,92719,Calculator,Electronics,47,2024-07-02 20:24:58,6.83,40512,Saint Vincent and the Grenadines,321.01
+528231,14117,Mouse Pad,Electronics,45,2024-01-30 05:18:39,86.1,40495,Anguilla,3874.5
+797229,77391,Mirror,Travel,44,2024-07-25 21:51:48,24.56,95181,Czech Republic,1080.64
+415568,73624,Notebook,Clothing,1,2024-11-11 16:42:30,22.21,68878,Falkland Islands (Malvinas),22.21
+708158,84847,Blanket,Clothing,21,2024-03-15 01:51:02,58.04,85674,Czech Republic,1218.84
+636004,71993,Mug,Clothing,48,2025-05-01 16:52:38,80.94,87397,Saint Vincent and the Grenadines,3885.12
+796101,22363,Backpack,Sports,22,2025-06-17 04:55:57,10.6,14207,Saint Vincent and the Grenadines,233.2
+425498,56438,Book,Sports,13,2023-08-17 01:08:44,42.93,28289,Saint Vincent and the Grenadines,558.09
+598216,17100,Flashlight,Travel,50,2025-03-23 09:11:40,67.66,92397,Saint Pierre and Miquelon,3383.0
+703634,22899,Water Bottle,Travel,45,2025-04-28 21:33:34,7.0,82357,Saint Vincent and the Grenadines,315.0
+787926,54473,Tripod,Electronics,49,2023-12-14 00:15:55,80.26,13905,Burundi,3932.74
+329471,42591,Back Scratcher,Office Supplies,45,2025-02-04 06:15:41,19.97,23434,Ecuador,898.65
+989545,68800,Phone Case,Clothing,9,2024-07-05 06:06:12,14.88,31417,Ecuador,133.92
+686075,46509,Power Bank,Electronics,49,2024-05-02 06:43:45,46.8,94939,Burundi,2293.2
+629298,68082,Bowl,Office Supplies,36,2024-03-14 19:53:50,80.99,83563,Burundi,2915.64
+597732,22833,Plate,Office Supplies,49,2023-12-10 18:20:52,6.01,93227,Saint Vincent and the Grenadines,294.49
+915451,11934,Raincoat,Clothing,41,2024-01-26 05:44:21,96.93,85674,Bouvet Island (Bouvetoya),3974.13
+399607,31798,Jacket,Sports,22,2025-03-27 00:33:43,41.23,93320,Bouvet Island (Bouvetoya),907.06
+258157,38016,Thermos,Electronics,45,2024-04-29 10:34:37,86.6,87236,Northern Mariana Islands,3897.0
+527398,31579,T-Shirt,Sports,30,2023-10-30 09:20:15,38.52,68878,Burundi,1155.6
+508396,44760,Hoodie,Sports,38,2023-10-23 00:54:28,92.73,46048,Burundi,3523.74
+976325,82845,Cap,Sports,48,2023-10-26 02:55:26,66.53,99593,Saint Pierre and Miquelon,3193.44
+611945,30289,Yoga Mat,Clothing,28,2024-05-16 19:51:38,19.8,59615,Saint Vincent and the Grenadines,554.4
+812131,17665,Coffee Maker,Office Supplies,47,2025-05-31 06:26:24,58.34,16006,Saint Pierre and Miquelon,2741.98
+752483,17989,Planner,Electronics,26,2024-05-05 03:47:57,75.05,42087,Northern Mariana Islands,1951.3
+773971,16572,Wallet,Office Supplies,30,2024-11-22 22:16:08,58.83,46421,Falkland Islands (Malvinas),1764.9
+321941,79615,Travel Pillow,Office Supplies,22,2024-03-04 11:01:34,16.59,26361,Saint Vincent and the Grenadines,364.98
+972335,20500,Earbuds,Electronics,6,2025-04-29 21:57:41,85.28,40021,Ecuador,511.68
+466960,20500,Earbuds,Electronics,5,2023-09-14 17:58:29,85.28,80010,Northern Mariana Islands,426.4
+359295,69470,Pen,Travel,2,2025-02-28 19:11:11,1.32,30926,Anguilla,2.64
+691364,22899,Water Bottle,Travel,30,2024-08-02 20:18:01,7.0,62581,Falkland Islands (Malvinas),210.0
+884256,56438,Book,Sports,50,2024-10-01 12:00:58,42.93,59797,Anguilla,2146.5
+427110,69470,Pen,Travel,25,2023-11-16 22:55:41,1.32,38785,Anguilla,33.0
+970917,56438,Book,Sports,7,2025-07-28 08:49:54,42.93,22156,Burundi,300.51
+226935,56438,Book,Sports,37,2024-06-01 00:23:32,42.93,44671,Ecuador,1588.41
+172306,22899,Water Bottle,Travel,22,2023-10-12 04:56:31,7.0,92397,Burundi,154.0
+479781,31174,Floor Mat,Office Supplies,30,2024-10-13 18:46:59,54.4,57400,Anguilla,1632.0
+782054,77391,Mirror,Travel,35,2024-03-26 17:14:21,24.56,16006,Falkland Islands (Malvinas),859.6
+381433,68800,Phone Case,Clothing,16,2025-05-17 05:13:24,14.88,65302,Saint Vincent and the Grenadines,238.08
+886931,92719,Calculator,Electronics,40,2024-12-12 06:41:42,6.83,89131,Northern Mariana Islands,273.2
+290672,38016,Thermos,Electronics,23,2024-12-04 10:02:37,86.6,89131,Saint Vincent and the Grenadines,1991.8
+389688,56438,Book,Sports,34,2025-06-29 18:01:00,42.93,87397,Saint Vincent and the Grenadines,1459.62
+682144,39451,Umbrella,Electronics,45,2025-06-11 07:22:51,7.34,38785,Falkland Islands (Malvinas),330.3
+197573,11934,Raincoat,Clothing,26,2024-05-18 21:21:55,96.93,59797,Czech Republic,2520.18
+680358,98039,Slippers,Sports,28,2024-11-02 10:37:26,65.34,57819,Saint Vincent and the Grenadines,1829.52
+384076,42591,Back Scratcher,Office Supplies,15,2024-01-08 08:31:08,19.97,64987,Saint Vincent and the Grenadines,299.55
+899213,68800,Phone Case,Clothing,13,2025-02-09 06:10:15,14.88,39871,Saint Vincent and the Grenadines,193.44
+897135,56438,Book,Sports,19,2023-10-05 00:36:07,42.93,64987,Saint Vincent and the Grenadines,815.67
+831295,84847,Blanket,Clothing,41,2025-01-06 14:50:30,58.04,47930,Bouvet Island (Bouvetoya),2379.64
+398151,69470,Pen,Travel,29,2024-02-05 00:19:54,1.32,23434,Saint Vincent and the Grenadines,38.28
+219629,44760,Hoodie,Sports,26,2025-04-03 11:02:18,92.73,56566,Czech Republic,2410.98
+256445,76542,Gloves,Travel,20,2024-03-23 18:34:57,91.35,65392,Anguilla,1827.0
+735770,22833,Plate,Office Supplies,40,2023-10-12 23:25:48,6.01,59823,Falkland Islands (Malvinas),240.4
+411797,82845,Cap,Sports,28,2025-06-06 08:16:40,66.53,19358,Northern Mariana Islands,1862.84
+204053,17989,Planner,Electronics,14,2024-02-08 19:32:11,75.05,46421,Czech Republic,1050.7
+402099,44522,Laptop Sleeve,Clothing,45,2023-10-29 10:48:11,97.22,21395,Czech Republic,4374.9
+926097,82845,Cap,Sports,38,2024-06-02 06:03:59,66.53,38893,Falkland Islands (Malvinas),2528.14
+779094,73624,Notebook,Clothing,18,2024-03-14 21:48:12,22.21,21395,Northern Mariana Islands,399.78
+723948,11934,Raincoat,Clothing,37,2024-07-29 04:10:50,96.93,85674,Anguilla,3586.41
+833723,54473,Tripod,Electronics,18,2024-12-17 18:01:00,80.26,20458,Falkland Islands (Malvinas),1444.68
+553014,56438,Book,Sports,39,2025-05-20 20:56:43,42.93,65302,Saint Vincent and the Grenadines,1674.27
+703139,22899,Water Bottle,Travel,2,2024-05-21 08:57:53,7.0,70589,Burundi,14.0
+900177,71993,Mug,Clothing,31,2023-12-16 08:05:31,80.94,85674,Saint Pierre and Miquelon,2509.14
+713762,50306,Belt,Clothing,32,2024-05-25 12:40:24,24.71,96673,Falkland Islands (Malvinas),790.72
+802685,36365,Desk Organizer,Sports,11,2024-05-13 22:43:33,71.58,45382,Falkland Islands (Malvinas),787.38
+519904,22899,Water Bottle,Travel,36,2024-01-21 17:29:38,7.0,65302,Saint Vincent and the Grenadines,252.0
+910075,36365,Desk Organizer,Sports,33,2025-01-13 12:58:14,71.58,24592,Czech Republic,2362.14
+533321,73624,Notebook,Clothing,34,2024-03-06 08:49:38,22.21,14207,Falkland Islands (Malvinas),755.14
+154118,38864,Sunglasses,Travel,36,2025-02-07 02:52:43,1.71,54118,Falkland Islands (Malvinas),61.56
+227324,54473,Tripod,Electronics,41,2025-08-08 12:30:25,80.26,30926,Czech Republic,3290.66
+114338,80686,Clock,Travel,6,2025-01-23 22:15:07,75.77,22280,Falkland Islands (Malvinas),454.62
+972565,10074,Cutlery Set,Sports,46,2024-12-27 08:15:18,60.3,83000,Saint Vincent and the Grenadines,2773.8
+595158,31798,Jacket,Sports,36,2023-10-06 11:02:21,41.23,64987,Saint Pierre and Miquelon,1484.28
+243139,14117,Mouse Pad,Electronics,18,2024-11-27 03:01:29,86.1,92397,Falkland Islands (Malvinas),1549.8
+380150,11934,Raincoat,Clothing,19,2024-12-17 04:51:11,96.93,97841,Czech Republic,1841.67
+255813,22899,Water Bottle,Travel,31,2023-12-22 22:15:20,7.0,57819,Burundi,217.0
+437408,77839,Tote Bag,Clothing,45,2024-09-29 21:05:20,45.7,59615,Saint Vincent and the Grenadines,2056.5
+145767,22833,Plate,Office Supplies,31,2025-02-28 07:54:31,6.01,26361,Falkland Islands (Malvinas),186.31
+960616,22899,Water Bottle,Travel,10,2024-02-18 03:36:23,7.0,39256,Anguilla,70.0
+448121,16572,Wallet,Office Supplies,29,2023-12-16 22:02:35,58.83,19116,Northern Mariana Islands,1706.07
+786587,12552,Charger,Home & Kitchen,5,2024-08-05 01:09:17,12.07,46421,Falkland Islands (Malvinas),60.35
+781403,54473,Tripod,Electronics,22,2024-06-01 17:33:43,80.26,69429,Falkland Islands (Malvinas),1765.72
+853629,36365,Desk Organizer,Sports,32,2024-03-08 16:11:31,71.58,39256,Czech Republic,2290.56
+817644,26483,Desk Lamp,Sports,15,2025-07-30 18:32:30,13.71,57400,Saint Pierre and Miquelon,205.65
+838083,68082,Bowl,Office Supplies,29,2024-12-21 02:27:36,80.99,22156,Saint Pierre and Miquelon,2348.71
+934816,76542,Gloves,Travel,23,2025-01-27 12:16:07,91.35,88907,Saint Vincent and the Grenadines,2101.05
+814919,39451,Umbrella,Electronics,11,2024-10-17 14:17:44,7.34,94939,Burundi,80.74
+352528,56438,Book,Sports,38,2024-01-29 13:55:24,42.93,16006,Czech Republic,1631.34
+462351,49117,Camping Tent,Office Supplies,20,2024-04-19 21:04:05,84.33,91070,Czech Republic,1686.6
+416797,92719,Calculator,Electronics,25,2025-05-27 15:53:54,6.83,13905,Saint Vincent and the Grenadines,170.75
+702733,71993,Mug,Clothing,45,2025-03-30 18:24:11,80.94,42087,Falkland Islands (Malvinas),3642.3
+819112,69470,Pen,Travel,4,2025-04-05 17:41:12,1.32,40021,Falkland Islands (Malvinas),5.28
+400096,82845,Cap,Sports,15,2023-09-24 10:45:32,66.53,15695,Saint Vincent and the Grenadines,997.95
+362801,84364,Candle,Electronics,47,2024-02-05 21:45:55,94.75,59735,Burundi,4453.25
+757937,17100,Flashlight,Travel,20,2025-05-11 07:30:38,67.66,39256,Czech Republic,1353.2
+194511,68800,Phone Case,Clothing,21,2023-09-05 22:23:30,14.88,95181,Anguilla,312.48
+483629,11934,Raincoat,Clothing,18,2025-04-28 07:08:29,96.93,54597,Saint Pierre and Miquelon,1744.74
+945664,17665,Coffee Maker,Office Supplies,22,2024-04-13 00:28:15,58.34,16006,Saint Pierre and Miquelon,1283.48
+336574,10074,Cutlery Set,Sports,47,2024-06-18 14:15:13,60.3,20328,Saint Pierre and Miquelon,2834.1
+483542,11934,Raincoat,Clothing,26,2024-03-06 23:03:06,96.93,69429,Anguilla,2520.18
+885395,98039,Slippers,Sports,38,2023-10-02 09:50:42,65.34,93227,Saint Pierre and Miquelon,2482.92
+345180,31174,Floor Mat,Office Supplies,40,2024-01-22 21:00:18,54.4,31319,Saint Vincent and the Grenadines,2176.0
+779112,56438,Book,Sports,30,2025-07-21 06:05:27,42.93,22156,Czech Republic,1287.9
+147549,10074,Cutlery Set,Sports,20,2024-10-25 13:00:08,60.3,22280,Bouvet Island (Bouvetoya),1206.0
+242254,47388,Picture Frame,Travel,24,2025-06-22 16:40:35,42.88,40021,Czech Republic,1029.12
+715870,73624,Notebook,Clothing,10,2025-02-19 14:53:31,22.21,80010,Bouvet Island (Bouvetoya),222.1
+527940,14117,Mouse Pad,Electronics,18,2024-04-12 10:01:15,86.1,80284,Saint Vincent and the Grenadines,1549.8
+347582,38864,Sunglasses,Travel,7,2024-01-24 03:38:45,1.71,80284,Ecuador,11.97
+476096,79615,Travel Pillow,Office Supplies,18,2025-01-02 02:15:44,16.59,38657,Saint Pierre and Miquelon,298.62
+196126,31798,Jacket,Sports,42,2024-09-02 18:20:42,41.23,46048,Northern Mariana Islands,1731.66
+232040,36365,Desk Organizer,Sports,14,2024-06-14 07:06:47,71.58,51347,Ecuador,1002.12
+952547,22363,Backpack,Sports,22,2025-06-29 03:41:21,10.6,44993,Northern Mariana Islands,233.2
+251716,44760,Hoodie,Sports,35,2025-07-22 08:24:09,92.73,95181,Anguilla,3245.55
+877747,76542,Gloves,Travel,8,2024-08-02 09:37:06,91.35,96673,Falkland Islands (Malvinas),730.8
+722503,98039,Slippers,Sports,33,2023-11-30 23:19:10,65.34,94939,Northern Mariana Islands,2156.22
+790909,22833,Plate,Office Supplies,30,2024-03-04 17:43:27,6.01,42098,Northern Mariana Islands,180.3
+521126,92719,Calculator,Electronics,7,2023-11-28 10:53:52,6.83,85674,Bouvet Island (Bouvetoya),47.81
+737846,49117,Camping Tent,Office Supplies,9,2024-02-19 13:28:11,84.33,93227,Czech Republic,758.97
+499407,42591,Back Scratcher,Office Supplies,34,2025-03-12 15:36:04,19.97,40512,Czech Republic,678.98
+835869,89818,Sneakers,Home & Kitchen,42,2024-10-21 00:39:37,20.69,62581,Ecuador,868.98
+550961,44760,Hoodie,Sports,15,2024-10-03 15:15:53,92.73,19116,Falkland Islands (Malvinas),1390.95
+427730,68800,Phone Case,Clothing,43,2024-03-03 01:51:30,14.88,13478,Czech Republic,639.84
+195656,92719,Calculator,Electronics,6,2025-03-14 05:20:48,6.83,40021,Burundi,40.98
+683397,11934,Raincoat,Clothing,36,2024-11-08 01:28:21,96.93,31417,Anguilla,3489.48
+797660,98039,Slippers,Sports,28,2024-07-09 18:35:07,65.34,99733,Northern Mariana Islands,1829.52
+427626,80686,Clock,Travel,37,2025-07-09 08:37:53,75.77,13478,Czech Republic,2803.49
+213475,26483,Desk Lamp,Sports,36,2024-11-07 05:50:31,13.71,51347,Saint Vincent and the Grenadines,493.56
+549956,26483,Desk Lamp,Sports,50,2024-06-17 05:21:54,13.71,94939,Czech Republic,685.5
+738577,84847,Blanket,Clothing,45,2024-05-19 04:06:10,58.04,81426,Saint Vincent and the Grenadines,2611.8
+456331,22833,Plate,Office Supplies,12,2024-01-29 08:26:06,6.01,58520,Czech Republic,72.12
+876962,76542,Gloves,Travel,2,2023-11-27 10:41:26,91.35,46434,Saint Vincent and the Grenadines,182.7
+457455,87110,Watch,Office Supplies,20,2024-09-10 18:15:30,55.84,45093,Saint Pierre and Miquelon,1116.8
+155164,56438,Book,Sports,49,2024-08-29 07:48:07,42.93,70589,Bouvet Island (Bouvetoya),2103.57
+544611,38864,Sunglasses,Travel,29,2023-10-21 14:40:27,1.71,87236,Burundi,49.59
+550797,10074,Cutlery Set,Sports,44,2025-03-21 00:48:02,60.3,47930,Ecuador,2653.2
+331230,80686,Clock,Travel,39,2023-09-17 14:18:46,75.77,68878,Saint Vincent and the Grenadines,2955.03
+243901,84364,Candle,Electronics,19,2025-06-10 20:07:18,94.75,24592,Falkland Islands (Malvinas),1800.25
+235461,87110,Watch,Office Supplies,46,2023-11-05 04:00:28,55.84,31319,Burundi,2568.64
+175576,11934,Raincoat,Clothing,48,2023-12-08 17:10:07,96.93,46048,Falkland Islands (Malvinas),4652.64
+428267,49117,Camping Tent,Office Supplies,37,2024-12-11 08:26:31,84.33,93227,Falkland Islands (Malvinas),3120.21
+121869,10074,Cutlery Set,Sports,11,2023-12-14 06:16:50,60.3,19358,Falkland Islands (Malvinas),663.3
+479430,54473,Tripod,Electronics,7,2025-04-18 05:25:46,80.26,97841,Falkland Islands (Malvinas),561.82
+425346,49117,Camping Tent,Office Supplies,15,2025-01-21 13:05:21,84.33,36062,Bouvet Island (Bouvetoya),1264.95
+656379,17100,Flashlight,Travel,50,2024-07-04 21:37:55,67.66,52504,Saint Pierre and Miquelon,3383.0
+254864,17100,Flashlight,Travel,10,2024-11-17 05:52:12,67.66,95181,Czech Republic,676.6
+787351,68082,Bowl,Office Supplies,50,2023-09-30 08:14:32,80.99,16006,Burundi,4049.5
+570711,46509,Power Bank,Electronics,37,2024-06-05 20:34:57,46.8,19358,Saint Vincent and the Grenadines,1731.6
+431495,79615,Travel Pillow,Office Supplies,5,2024-06-03 09:53:56,16.59,89840,Saint Vincent and the Grenadines,82.95
+158900,89507,Keychain,Clothing,5,2024-11-16 20:09:55,42.89,35203,Northern Mariana Islands,214.45
+401022,98039,Slippers,Sports,6,2024-08-09 13:04:56,65.34,40512,Falkland Islands (Malvinas),392.04
+930281,71993,Mug,Clothing,3,2024-09-25 23:24:22,80.94,56566,Czech Republic,242.82
+598733,36365,Desk Organizer,Sports,4,2024-02-23 06:41:55,71.58,89131,Saint Pierre and Miquelon,286.32
+777513,89818,Sneakers,Home & Kitchen,16,2024-10-14 16:52:41,20.69,85674,Ecuador,331.04
+481574,56438,Book,Sports,19,2025-06-10 14:05:47,42.93,45093,Falkland Islands (Malvinas),815.67
+927564,56438,Book,Sports,22,2023-08-20 22:01:18,42.93,14165,Ecuador,944.46
+364236,77839,Tote Bag,Clothing,43,2025-01-21 09:24:06,45.7,99593,Saint Pierre and Miquelon,1965.1
+711046,36365,Desk Organizer,Sports,23,2025-02-21 19:13:42,71.58,80010,Czech Republic,1646.34
+723945,77839,Tote Bag,Clothing,6,2023-11-08 23:23:57,45.7,26361,Czech Republic,274.2
+234001,36365,Desk Organizer,Sports,48,2025-01-22 12:00:08,71.58,46434,Bouvet Island (Bouvetoya),3435.84
+633188,22899,Water Bottle,Travel,24,2025-06-29 05:39:07,7.0,87236,Falkland Islands (Malvinas),168.0
+301332,22833,Plate,Office Supplies,9,2024-10-02 01:51:08,6.01,23396,Burundi,54.09
+908320,89818,Sneakers,Home & Kitchen,48,2025-03-17 05:22:36,20.69,39256,Czech Republic,993.12
+748052,44760,Hoodie,Sports,25,2024-03-06 05:58:55,92.73,81426,Burundi,2318.25
+948343,22833,Plate,Office Supplies,47,2025-03-30 23:43:07,6.01,48427,Falkland Islands (Malvinas),282.47
+565776,68800,Phone Case,Clothing,49,2024-12-21 20:23:38,14.88,35203,Saint Vincent and the Grenadines,729.12
+947903,26483,Desk Lamp,Sports,13,2024-05-02 05:19:49,13.71,56566,Saint Pierre and Miquelon,178.23
+395459,92719,Calculator,Electronics,33,2023-11-06 15:28:59,6.83,83563,Burundi,225.39
+245121,11934,Raincoat,Clothing,4,2024-03-26 23:14:20,96.93,80284,Ecuador,387.72
+986982,89818,Sneakers,Home & Kitchen,8,2024-07-14 16:36:42,20.69,51347,Anguilla,165.52
+638289,92719,Calculator,Electronics,28,2023-12-12 20:16:27,6.83,46463,Burundi,191.24
+127965,44760,Hoodie,Sports,26,2024-07-29 10:01:22,92.73,30926,Falkland Islands (Malvinas),2410.98
+335445,49117,Camping Tent,Office Supplies,7,2023-08-14 12:29:49,84.33,80010,Saint Vincent and the Grenadines,590.31
+140163,12552,Charger,Home & Kitchen,31,2025-02-22 20:46:17,12.07,76237,Burundi,374.17
+862560,84847,Blanket,Clothing,28,2025-02-20 23:49:12,58.04,54118,Saint Vincent and the Grenadines,1625.12
+350021,10074,Cutlery Set,Sports,40,2024-03-03 13:55:39,60.3,22280,Burundi,2412.0
+744674,87110,Watch,Office Supplies,37,2025-03-25 20:00:17,55.84,31417,Czech Republic,2066.08
+478120,77391,Mirror,Travel,34,2023-12-28 18:18:44,24.56,40512,Ecuador,835.04
+592972,77839,Tote Bag,Clothing,25,2024-09-09 07:52:20,45.7,54597,Burundi,1142.5
+170841,98039,Slippers,Sports,47,2025-07-20 20:36:57,65.34,13905,Burundi,3070.98
+448671,68800,Phone Case,Clothing,23,2023-11-02 15:38:29,14.88,32431,Anguilla,342.24
+587192,22833,Plate,Office Supplies,31,2025-06-18 03:38:32,6.01,76237,Northern Mariana Islands,186.31
+579911,22833,Plate,Office Supplies,13,2024-12-09 16:26:25,6.01,38893,Saint Pierre and Miquelon,78.13
+425138,36365,Desk Organizer,Sports,35,2024-03-30 19:24:50,71.58,39256,Burundi,2505.3
+474314,84364,Candle,Electronics,4,2025-05-26 17:51:13,94.75,55082,Saint Vincent and the Grenadines,379.0
+558176,11934,Raincoat,Clothing,48,2024-12-20 06:52:54,96.93,59615,Falkland Islands (Malvinas),4652.64
+825686,84364,Candle,Electronics,34,2024-09-09 07:31:19,94.75,87397,Burundi,3221.5
+731718,49117,Camping Tent,Office Supplies,12,2024-11-27 00:01:39,84.33,57052,Bouvet Island (Bouvetoya),1011.96
+410000,36365,Desk Organizer,Sports,39,2024-01-13 11:58:18,71.58,36062,Czech Republic,2791.62
+144412,98039,Slippers,Sports,23,2023-12-08 17:07:49,65.34,57400,Saint Vincent and the Grenadines,1502.82
+160144,79615,Travel Pillow,Office Supplies,41,2024-05-28 10:15:33,16.59,23238,Burundi,680.19
+132653,54473,Tripod,Electronics,39,2025-03-26 06:13:53,80.26,85674,Northern Mariana Islands,3130.14
+916332,76542,Gloves,Travel,24,2023-12-15 11:29:32,91.35,58520,Northern Mariana Islands,2192.4
+571778,12552,Charger,Home & Kitchen,24,2024-10-03 22:45:13,12.07,21395,Ecuador,289.68
+517368,77391,Mirror,Travel,18,2025-04-07 18:38:58,24.56,22280,Northern Mariana Islands,442.08
+642895,84364,Candle,Electronics,36,2025-07-28 11:25:03,94.75,45093,Saint Vincent and the Grenadines,3411.0
+741599,92719,Calculator,Electronics,32,2024-09-26 22:30:32,6.83,76237,Burundi,218.56
+848022,92719,Calculator,Electronics,6,2025-07-25 09:57:35,6.83,22676,Czech Republic,40.98
+676713,42591,Back Scratcher,Office Supplies,20,2023-08-12 10:39:39,19.97,38785,Czech Republic,399.4
+282547,42591,Back Scratcher,Office Supplies,33,2024-11-19 05:08:10,19.97,38893,Burundi,659.01
+618019,26483,Desk Lamp,Sports,36,2024-04-19 18:42:24,13.71,16006,Burundi,493.56
+741674,84847,Blanket,Clothing,5,2024-08-25 12:16:14,58.04,38785,Czech Republic,290.2
+906527,77391,Mirror,Travel,37,2023-08-27 03:04:22,24.56,22676,Czech Republic,908.72
+813145,92719,Calculator,Electronics,9,2023-11-06 21:21:55,6.83,45093,Ecuador,61.47
+905077,22363,Backpack,Sports,28,2025-08-02 15:39:12,10.6,98696,Burundi,296.8
+418897,77391,Mirror,Travel,21,2024-05-19 22:27:06,24.56,46463,Falkland Islands (Malvinas),515.76
+397846,17665,Coffee Maker,Office Supplies,17,2025-06-24 12:33:46,58.34,57819,Saint Vincent and the Grenadines,991.78
+744274,17100,Flashlight,Travel,33,2025-05-18 23:22:08,67.66,97841,Saint Pierre and Miquelon,2232.78
+790731,12552,Charger,Home & Kitchen,39,2025-04-29 15:22:20,12.07,58520,Northern Mariana Islands,470.73
+185168,44760,Hoodie,Sports,42,2024-04-06 20:28:43,92.73,46421,Czech Republic,3894.66
+536822,22833,Plate,Office Supplies,2,2024-02-13 23:42:52,6.01,89840,Ecuador,12.02
+416768,17100,Flashlight,Travel,44,2023-09-25 23:48:12,67.66,19116,Bouvet Island (Bouvetoya),2977.04
+560959,76542,Gloves,Travel,30,2024-02-15 02:10:18,91.35,99593,Anguilla,2740.5
+434827,44760,Hoodie,Sports,23,2025-06-23 23:17:06,92.73,40495,Burundi,2132.79
+211341,14117,Mouse Pad,Electronics,30,2024-10-25 16:17:59,86.1,35203,Saint Vincent and the Grenadines,2583.0
+404309,89818,Sneakers,Home & Kitchen,40,2023-10-12 04:08:16,20.69,83563,Burundi,827.6
+856157,30289,Yoga Mat,Clothing,49,2023-10-17 12:41:45,19.8,23238,Falkland Islands (Malvinas),970.2
+621530,44760,Hoodie,Sports,26,2025-03-02 11:44:47,92.73,30926,Saint Vincent and the Grenadines,2410.98
+152995,98039,Slippers,Sports,39,2024-08-23 11:31:07,65.34,80010,Czech Republic,2548.26
+108574,80686,Clock,Travel,28,2025-05-06 19:46:33,75.77,46421,Burundi,2121.56
+483713,22833,Plate,Office Supplies,4,2023-10-04 18:12:53,6.01,64987,Falkland Islands (Malvinas),24.04
+505116,80686,Clock,Travel,49,2025-03-24 18:39:07,75.77,19358,Czech Republic,3712.73
+201377,10074,Cutlery Set,Sports,22,2024-09-28 18:21:45,60.3,70217,Burundi,1326.6
+633853,84364,Candle,Electronics,3,2025-03-28 20:11:18,94.75,76237,Czech Republic,284.25
+644559,11934,Raincoat,Clothing,39,2023-11-17 16:20:45,96.93,76237,Saint Vincent and the Grenadines,3780.27
+270395,56438,Book,Sports,40,2023-11-19 17:23:25,42.93,22156,Czech Republic,1717.2
+634473,14117,Mouse Pad,Electronics,46,2025-01-05 10:38:48,86.1,96673,Burundi,3960.6
+806537,98039,Slippers,Sports,27,2024-08-15 03:54:20,65.34,99733,Burundi,1764.18
+725905,17100,Flashlight,Travel,42,2024-10-12 01:04:54,67.66,45093,Czech Republic,2841.72
+153849,26483,Desk Lamp,Sports,11,2023-12-18 06:11:22,13.71,99733,Czech Republic,150.81
+254954,31798,Jacket,Sports,16,2024-03-04 21:00:49,41.23,93886,Anguilla,659.68
+428930,69470,Pen,Travel,27,2024-09-24 20:33:08,1.32,48427,Falkland Islands (Malvinas),35.64
+594514,56438,Book,Sports,48,2025-06-19 15:19:50,42.93,83000,Anguilla,2060.64
+440839,84364,Candle,Electronics,31,2024-11-25 03:43:48,94.75,22676,Saint Pierre and Miquelon,2937.25
+659024,92719,Calculator,Electronics,23,2024-07-05 15:51:46,6.83,99733,Czech Republic,157.09
+377203,11934,Raincoat,Clothing,13,2024-01-23 12:12:16,96.93,38221,Ecuador,1260.09
+412071,26483,Desk Lamp,Sports,46,2025-08-02 12:12:09,13.71,83000,Falkland Islands (Malvinas),630.66
+687713,92719,Calculator,Electronics,47,2024-10-03 21:12:27,6.83,38657,Ecuador,321.01
+513697,73624,Notebook,Clothing,50,2025-03-20 15:09:49,22.21,23396,Northern Mariana Islands,1110.5
+182868,17989,Planner,Electronics,29,2025-02-28 22:54:04,75.05,40021,Falkland Islands (Malvinas),2176.45
+664739,84364,Candle,Electronics,36,2025-01-28 20:03:53,94.75,76237,Anguilla,3411.0
+350905,68800,Phone Case,Clothing,43,2024-01-15 05:43:39,14.88,46463,Czech Republic,639.84
+533377,76542,Gloves,Travel,31,2025-02-15 18:19:55,91.35,62581,Anguilla,2831.85
+265613,16572,Wallet,Office Supplies,31,2024-04-10 02:48:46,58.83,38893,Burundi,1823.73
+399279,80686,Clock,Travel,50,2024-06-16 21:45:19,75.77,56566,Saint Vincent and the Grenadines,3788.5
+991638,68800,Phone Case,Clothing,12,2025-01-14 17:09:08,14.88,95181,Saint Pierre and Miquelon,178.56
+976822,76542,Gloves,Travel,32,2024-12-28 18:36:18,91.35,40021,Saint Pierre and Miquelon,2923.2
+669691,20500,Earbuds,Electronics,9,2024-07-17 06:46:38,85.28,16006,Saint Vincent and the Grenadines,767.52
+446747,11934,Raincoat,Clothing,30,2025-07-10 18:01:19,96.93,38785,Anguilla,2907.9
+929179,68800,Phone Case,Clothing,44,2024-09-17 00:18:46,14.88,95181,Czech Republic,654.72
+525187,17100,Flashlight,Travel,33,2024-07-27 16:18:42,67.66,82357,Czech Republic,2232.78
+416613,17989,Planner,Electronics,37,2024-02-20 13:17:44,75.05,80010,Falkland Islands (Malvinas),2776.85
+800224,26483,Desk Lamp,Sports,20,2024-02-02 12:39:43,13.71,59735,Falkland Islands (Malvinas),274.2
+837733,47388,Picture Frame,Travel,45,2023-09-30 17:31:45,42.88,23396,Falkland Islands (Malvinas),1929.6
+240057,26483,Desk Lamp,Sports,30,2024-04-30 14:22:18,13.71,99593,Falkland Islands (Malvinas),411.3
+593699,42591,Back Scratcher,Office Supplies,43,2023-08-28 08:06:25,19.97,51347,Saint Vincent and the Grenadines,858.71
+925618,68800,Phone Case,Clothing,29,2024-11-10 22:52:09,14.88,70217,Bouvet Island (Bouvetoya),431.52
+164758,71993,Mug,Clothing,33,2024-10-15 05:50:44,80.94,69429,Anguilla,2671.02
+645617,36365,Desk Organizer,Sports,44,2024-02-06 17:38:58,71.58,37460,Falkland Islands (Malvinas),3149.52
+567122,82845,Cap,Sports,30,2024-11-11 01:19:07,66.53,92397,Falkland Islands (Malvinas),1995.9
+584838,76542,Gloves,Travel,20,2024-01-30 01:08:58,91.35,20328,Saint Vincent and the Grenadines,1827.0
+328486,69470,Pen,Travel,3,2023-08-17 14:02:49,1.32,93886,Northern Mariana Islands,3.96
+172371,20500,Earbuds,Electronics,31,2023-10-06 03:24:25,85.28,48427,Anguilla,2643.68
+772687,10074,Cutlery Set,Sports,42,2025-02-11 19:06:41,60.3,80284,Saint Pierre and Miquelon,2532.6
+495833,77839,Tote Bag,Clothing,44,2024-12-14 04:36:42,45.7,93320,Anguilla,2010.8
+224395,44760,Hoodie,Sports,35,2023-09-26 17:29:11,92.73,40495,Burundi,3245.55
+103642,26483,Desk Lamp,Sports,20,2024-02-05 19:47:03,13.71,99733,Ecuador,274.2
+963355,77391,Mirror,Travel,30,2023-10-03 08:25:59,24.56,38221,Anguilla,736.8
+902674,44760,Hoodie,Sports,43,2025-07-15 06:15:08,92.73,62581,Saint Pierre and Miquelon,3987.39
+352356,47388,Picture Frame,Travel,7,2023-09-05 09:34:47,42.88,35203,Czech Republic,300.16
+151040,42591,Back Scratcher,Office Supplies,3,2025-06-09 16:45:55,19.97,10851,Ecuador,59.91
+913761,68800,Phone Case,Clothing,33,2024-04-24 15:38:00,14.88,10851,Burundi,491.04
+434394,68800,Phone Case,Clothing,50,2023-10-06 00:52:36,14.88,57052,Saint Vincent and the Grenadines,744.0
+792282,44760,Hoodie,Sports,27,2024-09-14 08:33:53,92.73,98696,Ecuador,2503.71
+870925,56438,Book,Sports,41,2024-02-12 20:43:40,42.93,31319,Falkland Islands (Malvinas),1760.13
+774565,79615,Travel Pillow,Office Supplies,34,2024-03-15 07:11:32,16.59,92397,Falkland Islands (Malvinas),564.06
+292811,80686,Clock,Travel,31,2025-01-12 14:38:58,75.77,46463,Saint Vincent and the Grenadines,2348.87
+944917,42591,Back Scratcher,Office Supplies,4,2024-08-23 00:46:55,19.97,92397,Ecuador,79.88
+354655,10074,Cutlery Set,Sports,22,2024-01-25 09:39:48,60.3,35203,Burundi,1326.6
+859782,89818,Sneakers,Home & Kitchen,4,2024-10-03 20:02:56,20.69,70589,Czech Republic,82.76
+176319,76542,Gloves,Travel,49,2023-11-22 18:28:17,91.35,31417,Ecuador,4476.15
+449138,92719,Calculator,Electronics,1,2025-02-23 20:16:08,6.83,64987,Saint Pierre and Miquelon,6.83
+890973,10074,Cutlery Set,Sports,16,2025-08-07 15:14:57,60.3,83000,Anguilla,964.8
+678897,82845,Cap,Sports,19,2025-06-27 08:48:45,66.53,69429,Czech Republic,1264.07
+477114,80686,Clock,Travel,32,2024-10-28 13:00:53,75.77,99733,Falkland Islands (Malvinas),2424.64
+312994,31798,Jacket,Sports,27,2024-11-01 13:21:49,41.23,46463,Burundi,1113.21
+680189,69470,Pen,Travel,38,2024-08-13 03:13:35,1.32,23396,Anguilla,50.16
+498290,36365,Desk Organizer,Sports,16,2024-02-16 17:47:48,71.58,80010,Saint Pierre and Miquelon,1145.28
+900441,36365,Desk Organizer,Sports,47,2025-04-12 10:21:58,71.58,47930,Falkland Islands (Malvinas),3364.26
+469283,68800,Phone Case,Clothing,47,2024-08-13 08:51:16,14.88,81426,Saint Pierre and Miquelon,699.36
+772985,73624,Notebook,Clothing,34,2025-04-30 04:50:06,22.21,21395,Saint Pierre and Miquelon,755.14
+329344,12552,Charger,Home & Kitchen,24,2024-01-06 21:29:53,12.07,93227,Czech Republic,289.68
+661762,68800,Phone Case,Clothing,2,2023-10-26 06:55:16,14.88,93886,Czech Republic,29.76
+287974,11934,Raincoat,Clothing,7,2025-01-04 20:19:43,96.93,30926,Anguilla,678.51
+954814,77391,Mirror,Travel,26,2024-07-11 19:22:35,24.56,82357,Falkland Islands (Malvinas),638.56
+831105,26483,Desk Lamp,Sports,44,2024-05-13 04:35:07,13.71,87397,Czech Republic,603.24
+896483,44760,Hoodie,Sports,26,2024-07-06 00:04:40,92.73,57819,Falkland Islands (Malvinas),2410.98
+836986,17100,Flashlight,Travel,32,2024-06-26 07:30:06,67.66,32431,Burundi,2165.12
+999636,71993,Mug,Clothing,34,2024-08-08 17:58:14,80.94,10851,Saint Vincent and the Grenadines,2751.96
+694316,44760,Hoodie,Sports,3,2025-06-12 23:05:02,92.73,59735,Saint Pierre and Miquelon,278.19
+690882,82845,Cap,Sports,12,2025-02-28 06:57:32,66.53,22676,Northern Mariana Islands,798.36
+251195,84364,Candle,Electronics,46,2023-09-23 01:49:26,94.75,21395,Saint Vincent and the Grenadines,4358.5
+694223,71993,Mug,Clothing,25,2025-01-16 00:25:29,80.94,93320,Saint Vincent and the Grenadines,2023.5
+246748,68800,Phone Case,Clothing,45,2024-12-31 13:17:35,14.88,40512,Burundi,669.6
+202430,98039,Slippers,Sports,5,2024-12-25 21:39:49,65.34,62581,Czech Republic,326.7
+911131,56438,Book,Sports,41,2023-10-27 10:38:31,42.93,35203,Falkland Islands (Malvinas),1760.13
+493663,98039,Slippers,Sports,44,2023-09-28 01:54:07,65.34,26361,Bouvet Island (Bouvetoya),2874.96
+936821,56438,Book,Sports,5,2024-06-19 17:24:16,42.93,13478,Falkland Islands (Malvinas),214.65
+261771,22833,Plate,Office Supplies,21,2025-02-27 14:53:06,6.01,65302,Northern Mariana Islands,126.21
+477400,80686,Clock,Travel,7,2024-05-01 13:03:32,75.77,81426,Falkland Islands (Malvinas),530.39
+637333,84847,Blanket,Clothing,2,2025-04-24 20:07:33,58.04,57819,Bouvet Island (Bouvetoya),116.08
+440189,56438,Book,Sports,1,2025-06-11 06:44:25,42.93,59615,Burundi,42.93
+686716,68800,Phone Case,Clothing,16,2023-11-04 20:55:20,14.88,36062,Czech Republic,238.08
+381981,50306,Belt,Clothing,32,2024-02-21 03:17:24,24.71,36062,Falkland Islands (Malvinas),790.72
+607753,87110,Watch,Office Supplies,24,2024-01-07 19:29:52,55.84,65392,Burundi,1340.16
+746624,14117,Mouse Pad,Electronics,7,2024-01-06 17:45:03,86.1,24592,Saint Pierre and Miquelon,602.7
+750318,36365,Desk Organizer,Sports,22,2024-10-01 13:05:27,71.58,57400,Burundi,1574.76
+723266,44760,Hoodie,Sports,21,2024-07-25 10:45:45,92.73,45382,Anguilla,1947.33
+517584,80686,Clock,Travel,19,2023-11-28 21:11:14,75.77,93227,Falkland Islands (Malvinas),1439.63
+354200,71993,Mug,Clothing,18,2024-07-04 16:26:37,80.94,20328,Falkland Islands (Malvinas),1456.92
+309505,30289,Yoga Mat,Clothing,35,2024-01-01 12:27:53,19.8,62581,Ecuador,693.0
+584045,17989,Planner,Electronics,14,2024-03-15 08:27:28,75.05,23396,Burundi,1050.7
+988970,76542,Gloves,Travel,27,2024-08-05 08:00:44,91.35,76237,Czech Republic,2466.45
+790658,26483,Desk Lamp,Sports,28,2024-02-22 00:43:46,13.71,21395,Falkland Islands (Malvinas),383.88
+710527,56438,Book,Sports,33,2025-06-21 05:35:58,42.93,45382,Falkland Islands (Malvinas),1416.69
+476993,76542,Gloves,Travel,35,2025-07-29 02:55:05,91.35,87397,Anguilla,3197.25
+796982,26483,Desk Lamp,Sports,42,2023-10-09 13:16:34,13.71,58520,Saint Pierre and Miquelon,575.82
+519029,54473,Tripod,Electronics,22,2024-07-21 04:33:20,80.26,57400,Anguilla,1765.72
+332785,89818,Sneakers,Home & Kitchen,34,2025-04-30 14:37:34,20.69,45382,Czech Republic,703.46
+510133,92719,Calculator,Electronics,44,2025-06-11 00:42:39,6.83,40512,Anguilla,300.52
+606222,20500,Earbuds,Electronics,27,2025-06-06 20:22:45,85.28,87397,Anguilla,2302.56
+248557,17665,Coffee Maker,Office Supplies,22,2024-10-12 10:48:26,58.34,68878,Ecuador,1283.48
+202365,98039,Slippers,Sports,45,2023-10-27 01:09:03,65.34,81482,Saint Vincent and the Grenadines,2940.3
+220675,11934,Raincoat,Clothing,22,2023-09-20 07:02:05,96.93,70589,Burundi,2132.46
+876459,30289,Yoga Mat,Clothing,12,2024-12-30 12:51:42,19.8,55082,Ecuador,237.6
+343118,17989,Planner,Electronics,41,2024-10-04 21:17:22,75.05,93227,Czech Republic,3077.05
+873207,77839,Tote Bag,Clothing,13,2025-05-22 08:41:01,45.7,91070,Falkland Islands (Malvinas),594.1
+315780,42591,Back Scratcher,Office Supplies,46,2023-08-23 11:06:22,19.97,81482,Czech Republic,918.62
+662968,11934,Raincoat,Clothing,21,2023-10-23 10:32:38,96.93,22280,Saint Vincent and the Grenadines,2035.53
+653349,44760,Hoodie,Sports,21,2025-07-31 12:43:55,92.73,94939,Falkland Islands (Malvinas),1947.33
+469082,10074,Cutlery Set,Sports,40,2025-03-19 07:28:44,60.3,70589,Czech Republic,2412.0
+744333,80686,Clock,Travel,44,2025-06-01 04:50:06,75.77,38657,Saint Vincent and the Grenadines,3333.88
+491439,10074,Cutlery Set,Sports,33,2024-02-11 14:25:59,60.3,44993,Anguilla,1989.9
+294776,77839,Tote Bag,Clothing,35,2023-12-19 04:15:49,45.7,32431,Saint Pierre and Miquelon,1599.5
+274971,50306,Belt,Clothing,9,2024-06-22 16:06:25,24.71,35203,Czech Republic,222.39
+110048,44760,Hoodie,Sports,13,2024-08-23 05:00:24,92.73,31319,Ecuador,1205.49
+817956,14117,Mouse Pad,Electronics,46,2024-08-19 21:10:16,86.1,47930,Anguilla,3960.6
+934541,71993,Mug,Clothing,19,2024-01-25 00:32:18,80.94,46463,Ecuador,1537.86
+579536,50306,Belt,Clothing,50,2025-06-13 14:15:05,24.71,57819,Ecuador,1235.5
+380901,71993,Mug,Clothing,24,2024-06-18 11:55:58,80.94,14207,Northern Mariana Islands,1942.56
+672892,68800,Phone Case,Clothing,28,2025-07-12 22:45:15,14.88,80010,Burundi,416.64
+133796,80686,Clock,Travel,23,2023-09-26 13:02:35,75.77,65302,Falkland Islands (Malvinas),1742.71
+913308,20500,Earbuds,Electronics,14,2023-12-17 21:03:30,85.28,97841,Czech Republic,1193.92
+739905,44760,Hoodie,Sports,11,2024-06-01 08:34:15,92.73,68878,Burundi,1020.03
+697766,11934,Raincoat,Clothing,18,2023-08-13 16:10:44,96.93,36062,Saint Vincent and the Grenadines,1744.74
+403387,42591,Back Scratcher,Office Supplies,33,2024-06-10 05:59:20,19.97,70589,Burundi,659.01
+886530,10074,Cutlery Set,Sports,4,2024-03-04 23:44:35,60.3,80010,Anguilla,241.2
+361805,44760,Hoodie,Sports,21,2025-07-31 15:32:55,92.73,51347,Burundi,1947.33
+249077,77839,Tote Bag,Clothing,18,2025-04-12 00:08:07,45.7,26361,Falkland Islands (Malvinas),822.6
+906233,17100,Flashlight,Travel,33,2025-04-12 19:52:19,67.66,45382,Saint Pierre and Miquelon,2232.78
+611751,98039,Slippers,Sports,1,2024-07-30 09:58:14,65.34,52504,Bouvet Island (Bouvetoya),65.34
+765678,79615,Travel Pillow,Office Supplies,23,2024-03-20 13:25:51,16.59,69429,Falkland Islands (Malvinas),381.57
+964915,79615,Travel Pillow,Office Supplies,18,2024-07-05 13:25:51,16.59,54118,Falkland Islands (Malvinas),298.62
+693643,71993,Mug,Clothing,22,2025-02-03 01:24:24,80.94,51347,Northern Mariana Islands,1780.68
+921967,89818,Sneakers,Home & Kitchen,2,2025-03-01 09:36:21,20.69,83563,Falkland Islands (Malvinas),41.38
+548580,69470,Pen,Travel,45,2025-04-11 10:55:02,1.32,80010,Saint Vincent and the Grenadines,59.4
+387330,44760,Hoodie,Sports,24,2024-10-16 16:16:20,92.73,80284,Czech Republic,2225.52
+154302,17100,Flashlight,Travel,20,2025-01-07 02:10:31,67.66,14207,Saint Vincent and the Grenadines,1353.2
+837880,17100,Flashlight,Travel,14,2025-02-20 00:06:03,67.66,40495,Czech Republic,947.24
+340068,92719,Calculator,Electronics,47,2023-12-10 05:37:19,6.83,13905,Saint Vincent and the Grenadines,321.01
+243790,44760,Hoodie,Sports,49,2024-01-06 11:57:10,92.73,32431,Saint Pierre and Miquelon,4543.77
+656278,12552,Charger,Home & Kitchen,40,2024-03-29 11:02:05,12.07,85674,Falkland Islands (Malvinas),482.8
+884616,84364,Candle,Electronics,27,2024-01-28 02:14:19,94.75,85674,Burundi,2558.25
+205345,89818,Sneakers,Home & Kitchen,8,2023-09-26 10:12:27,20.69,59615,Falkland Islands (Malvinas),165.52
+929504,87110,Watch,Office Supplies,18,2024-11-03 20:42:11,55.84,65392,Ecuador,1005.12
+737107,56438,Book,Sports,45,2025-03-05 11:08:06,42.93,42087,Saint Pierre and Miquelon,1931.85
+736408,84364,Candle,Electronics,48,2024-10-06 03:15:04,94.75,32431,Northern Mariana Islands,4548.0
+350967,82845,Cap,Sports,8,2023-09-28 08:19:53,66.53,93227,Czech Republic,532.24
+112653,77391,Mirror,Travel,21,2025-03-14 23:16:30,24.56,58520,Falkland Islands (Malvinas),515.76
+281162,73624,Notebook,Clothing,50,2024-04-11 14:01:02,22.21,97841,Bouvet Island (Bouvetoya),1110.5
+141761,89507,Keychain,Clothing,26,2023-09-25 09:38:16,42.89,89840,Czech Republic,1115.14
+544150,22833,Plate,Office Supplies,6,2023-09-19 22:43:15,6.01,69429,Czech Republic,36.06
+424960,89507,Keychain,Clothing,14,2024-11-07 17:51:34,42.89,13478,Ecuador,600.46
+765105,77839,Tote Bag,Clothing,42,2024-08-16 07:58:55,45.7,81482,Saint Vincent and the Grenadines,1919.4
+987586,38864,Sunglasses,Travel,16,2024-09-05 13:48:37,1.71,57400,Anguilla,27.36
+157701,56438,Book,Sports,48,2025-07-26 02:37:05,42.93,95181,Anguilla,2060.64
+371840,31798,Jacket,Sports,9,2024-09-27 12:54:31,41.23,30379,Burundi,371.07
+130782,10074,Cutlery Set,Sports,28,2023-12-12 06:45:31,60.3,81482,Saint Vincent and the Grenadines,1688.4
+758015,79615,Travel Pillow,Office Supplies,30,2023-09-25 04:18:43,16.59,98696,Falkland Islands (Malvinas),497.7
+485548,71993,Mug,Clothing,50,2024-09-09 10:36:33,80.94,56566,Czech Republic,4047.0
+876764,10074,Cutlery Set,Sports,3,2023-10-13 05:23:09,60.3,13278,Saint Vincent and the Grenadines,180.9
+501583,92719,Calculator,Electronics,12,2025-06-03 06:10:31,6.83,39256,Ecuador,81.96
+876644,82845,Cap,Sports,15,2024-01-03 08:01:42,66.53,92397,Saint Pierre and Miquelon,997.95
+966120,36365,Desk Organizer,Sports,24,2023-10-04 05:19:48,71.58,70589,Saint Pierre and Miquelon,1717.92
+943409,50306,Belt,Clothing,3,2024-11-16 04:15:30,24.71,81482,Saint Pierre and Miquelon,74.13
+911102,44760,Hoodie,Sports,21,2023-10-03 18:52:56,92.73,19116,Northern Mariana Islands,1947.33
+691194,84364,Candle,Electronics,48,2025-01-17 10:52:27,94.75,16006,Falkland Islands (Malvinas),4548.0
+910143,79615,Travel Pillow,Office Supplies,47,2025-06-11 09:28:27,16.59,51347,Burundi,779.73
+529954,12552,Charger,Home & Kitchen,35,2024-02-10 16:31:06,12.07,45382,Saint Pierre and Miquelon,422.45
+101533,17989,Planner,Electronics,25,2024-06-20 14:55:18,75.05,52504,Saint Vincent and the Grenadines,1876.25
+349736,84364,Candle,Electronics,4,2023-11-13 02:50:54,94.75,88907,Czech Republic,379.0
+342716,89818,Sneakers,Home & Kitchen,34,2025-07-03 12:09:30,20.69,80284,Falkland Islands (Malvinas),703.46
+708982,68800,Phone Case,Clothing,9,2024-10-27 11:31:09,14.88,20328,Bouvet Island (Bouvetoya),133.92
+556112,71993,Mug,Clothing,9,2024-02-19 05:47:12,80.94,46421,Burundi,728.46
+512040,30289,Yoga Mat,Clothing,48,2024-11-03 15:50:00,19.8,35203,Saint Vincent and the Grenadines,950.4
+312559,49117,Camping Tent,Office Supplies,50,2024-11-15 18:38:25,84.33,13478,Bouvet Island (Bouvetoya),4216.5
+429287,92719,Calculator,Electronics,35,2023-09-11 20:50:17,6.83,62581,Anguilla,239.05
+377880,80686,Clock,Travel,6,2024-12-05 02:06:29,75.77,59735,Saint Vincent and the Grenadines,454.62
+732608,42591,Back Scratcher,Office Supplies,21,2023-10-14 16:16:53,19.97,38785,Saint Vincent and the Grenadines,419.37
+638401,98039,Slippers,Sports,20,2024-07-02 14:55:07,65.34,95181,Northern Mariana Islands,1306.8
+574167,39451,Umbrella,Electronics,36,2025-01-03 14:19:26,7.34,16006,Bouvet Island (Bouvetoya),264.24
+776001,17100,Flashlight,Travel,38,2024-10-24 00:35:36,67.66,21395,Northern Mariana Islands,2571.08
+777366,76542,Gloves,Travel,9,2024-09-21 01:22:34,91.35,55082,Anguilla,822.15
+153097,17665,Coffee Maker,Office Supplies,37,2024-04-13 17:33:40,58.34,99733,Falkland Islands (Malvinas),2158.58
+816400,69470,Pen,Travel,23,2025-08-07 00:11:15,1.32,81426,Saint Vincent and the Grenadines,30.36
+255851,92719,Calculator,Electronics,40,2024-03-01 13:01:29,6.83,32431,Saint Vincent and the Grenadines,273.2
+677438,39451,Umbrella,Electronics,6,2024-01-17 15:40:02,7.34,76237,Falkland Islands (Malvinas),44.04
+935922,17100,Flashlight,Travel,41,2025-01-13 04:35:49,67.66,93320,Burundi,2774.06
+919898,20500,Earbuds,Electronics,31,2025-02-18 06:46:58,85.28,47930,Falkland Islands (Malvinas),2643.68
+437226,71993,Mug,Clothing,12,2024-04-12 00:48:42,80.94,44993,Saint Vincent and the Grenadines,971.28
+916356,47388,Picture Frame,Travel,31,2024-02-13 09:25:43,42.88,62581,Czech Republic,1329.28
+267378,26483,Desk Lamp,Sports,43,2024-03-05 07:24:48,13.71,69429,Burundi,589.53
+158624,82845,Cap,Sports,15,2024-06-14 09:58:58,66.53,59615,Falkland Islands (Malvinas),997.95
+986278,31798,Jacket,Sports,16,2023-11-21 15:44:52,41.23,17331,Czech Republic,659.68
+129576,82845,Cap,Sports,23,2025-01-14 17:12:47,66.53,58520,Anguilla,1530.19
+977340,17989,Planner,Electronics,32,2024-12-25 09:00:24,75.05,95181,Falkland Islands (Malvinas),2401.6
+343923,89818,Sneakers,Home & Kitchen,2,2024-04-01 00:21:03,20.69,24592,Saint Vincent and the Grenadines,41.38
+945619,56438,Book,Sports,46,2024-08-01 03:17:01,42.93,57052,Northern Mariana Islands,1974.78
+838927,12552,Charger,Home & Kitchen,50,2024-04-13 13:58:12,12.07,46434,Burundi,603.5
+491738,17989,Planner,Electronics,43,2025-08-02 14:09:24,75.05,14165,Saint Vincent and the Grenadines,3227.15
+265154,36365,Desk Organizer,Sports,28,2025-03-17 23:46:11,71.58,47930,Czech Republic,2004.24
+689275,50306,Belt,Clothing,40,2025-08-07 19:21:05,24.71,46463,Czech Republic,988.4
+496764,11934,Raincoat,Clothing,45,2023-10-07 08:18:06,96.93,95181,Burundi,4361.85
+700660,17989,Planner,Electronics,50,2023-08-19 05:39:09,75.05,39256,Anguilla,3752.5
+948095,36365,Desk Organizer,Sports,15,2024-08-01 23:03:40,71.58,13905,Saint Pierre and Miquelon,1073.7
+881549,10074,Cutlery Set,Sports,23,2024-12-06 11:14:51,60.3,36062,Czech Republic,1386.9
+961574,17989,Planner,Electronics,41,2024-10-22 06:57:43,75.05,55082,Falkland Islands (Malvinas),3077.05
+361662,89507,Keychain,Clothing,23,2023-10-28 15:47:08,42.89,13905,Burundi,986.47
+559507,76542,Gloves,Travel,11,2023-10-07 21:40:43,91.35,20458,Saint Pierre and Miquelon,1004.85
+493580,98039,Slippers,Sports,31,2024-10-02 14:13:54,65.34,56566,Czech Republic,2025.54
+270557,54473,Tripod,Electronics,3,2024-01-24 13:29:03,80.26,22676,Saint Vincent and the Grenadines,240.78
+458411,89818,Sneakers,Home & Kitchen,25,2024-09-07 22:22:27,20.69,21395,Ecuador,517.25
+197627,82845,Cap,Sports,40,2024-03-04 23:41:38,66.53,83000,Northern Mariana Islands,2661.2
+273012,17665,Coffee Maker,Office Supplies,28,2023-11-22 21:10:09,58.34,14165,Saint Vincent and the Grenadines,1633.52
+529161,79615,Travel Pillow,Office Supplies,47,2025-08-05 21:12:56,16.59,93320,Saint Vincent and the Grenadines,779.73
+349087,80686,Clock,Travel,26,2024-05-09 01:59:46,75.77,47930,Anguilla,1970.02
+548377,98039,Slippers,Sports,43,2025-06-26 04:29:54,65.34,39871,Anguilla,2809.62
+279130,69470,Pen,Travel,6,2023-10-04 10:21:46,1.32,22280,Saint Vincent and the Grenadines,7.92
+612855,77839,Tote Bag,Clothing,17,2025-06-24 22:47:07,45.7,93320,Falkland Islands (Malvinas),776.9
+499974,98039,Slippers,Sports,29,2024-02-17 17:47:29,65.34,85674,Falkland Islands (Malvinas),1894.86
+381607,26483,Desk Lamp,Sports,10,2024-05-25 00:29:03,13.71,31417,Bouvet Island (Bouvetoya),137.1
+947438,22899,Water Bottle,Travel,49,2024-03-20 08:33:00,7.0,57819,Northern Mariana Islands,343.0
+647967,77839,Tote Bag,Clothing,35,2023-12-12 12:36:50,45.7,96673,Ecuador,1599.5
+413369,26483,Desk Lamp,Sports,46,2024-07-17 08:21:08,13.71,56566,Saint Pierre and Miquelon,630.66
+810446,11934,Raincoat,Clothing,10,2025-05-20 14:07:56,96.93,14207,Falkland Islands (Malvinas),969.3
+275284,17989,Planner,Electronics,13,2024-10-06 22:19:00,75.05,91070,Bouvet Island (Bouvetoya),975.65
+311727,54473,Tripod,Electronics,41,2025-02-08 10:56:05,80.26,44993,Saint Vincent and the Grenadines,3290.66
+946561,82845,Cap,Sports,25,2024-04-02 23:19:41,66.53,57819,Saint Vincent and the Grenadines,1663.25
+580412,89507,Keychain,Clothing,1,2024-11-29 02:29:59,42.89,19358,Czech Republic,42.89
+217984,22833,Plate,Office Supplies,10,2025-04-29 21:26:00,6.01,37460,Burundi,60.1
+210766,17665,Coffee Maker,Office Supplies,7,2024-12-31 23:00:07,58.34,69429,Saint Pierre and Miquelon,408.38
+376967,44760,Hoodie,Sports,32,2024-09-25 20:10:09,92.73,96673,Northern Mariana Islands,2967.36
+250840,89507,Keychain,Clothing,44,2023-08-18 01:49:59,42.89,39256,Falkland Islands (Malvinas),1887.16
+824056,44760,Hoodie,Sports,48,2025-01-11 17:52:20,92.73,30379,Saint Pierre and Miquelon,4451.04
+957091,69470,Pen,Travel,20,2025-05-07 15:55:30,1.32,47930,Burundi,26.4
+339030,54473,Tripod,Electronics,48,2024-10-15 18:32:09,80.26,57052,Saint Vincent and the Grenadines,3852.48
+776913,39451,Umbrella,Electronics,29,2024-03-31 12:49:27,7.34,48427,Burundi,212.86
+492073,46509,Power Bank,Electronics,33,2025-08-04 17:11:29,46.8,81482,Saint Vincent and the Grenadines,1544.4
+242239,14117,Mouse Pad,Electronics,34,2025-01-08 06:27:43,86.1,42098,Anguilla,2927.4
+310477,44760,Hoodie,Sports,16,2023-10-31 10:59:32,92.73,23434,Saint Pierre and Miquelon,1483.68
+387286,42591,Back Scratcher,Office Supplies,30,2025-08-10 06:55:25,19.97,93227,Saint Pierre and Miquelon,599.1
+353690,54473,Tripod,Electronics,39,2025-06-24 01:28:23,80.26,96673,Czech Republic,3130.14
+271456,98039,Slippers,Sports,17,2023-11-24 07:22:04,65.34,45382,Bouvet Island (Bouvetoya),1110.78
+152062,69470,Pen,Travel,37,2024-03-04 10:00:07,1.32,87236,Burundi,48.84
+810614,17100,Flashlight,Travel,42,2023-11-09 15:44:46,67.66,46048,Burundi,2841.72
+737894,26483,Desk Lamp,Sports,20,2023-11-03 03:17:42,13.71,83000,Czech Republic,274.2
+494763,87110,Watch,Office Supplies,30,2025-03-10 15:39:00,55.84,16006,Saint Vincent and the Grenadines,1675.2
+396408,56438,Book,Sports,7,2023-12-10 17:45:32,42.93,89131,Saint Pierre and Miquelon,300.51
+390334,17100,Flashlight,Travel,46,2024-03-10 12:56:19,67.66,80010,Saint Vincent and the Grenadines,3112.36
+902658,12552,Charger,Home & Kitchen,4,2024-03-17 20:19:03,12.07,44993,Falkland Islands (Malvinas),48.28
+246726,36365,Desk Organizer,Sports,42,2024-11-23 18:50:42,71.58,23396,Saint Vincent and the Grenadines,3006.36
+507135,39451,Umbrella,Electronics,38,2024-01-22 14:25:16,7.34,56566,Burundi,278.92
+848021,36365,Desk Organizer,Sports,35,2025-02-19 09:15:38,71.58,96673,Saint Pierre and Miquelon,2505.3
+631958,22899,Water Bottle,Travel,11,2024-05-04 07:45:06,7.0,31319,Anguilla,77.0
+234159,89818,Sneakers,Home & Kitchen,47,2024-01-17 03:19:44,20.69,51347,Saint Pierre and Miquelon,972.43
+451936,17989,Planner,Electronics,15,2025-01-26 23:52:31,75.05,40021,Burundi,1125.75
+447411,87110,Watch,Office Supplies,38,2024-12-16 15:03:08,55.84,38657,Falkland Islands (Malvinas),2121.92
+711922,44760,Hoodie,Sports,40,2025-06-04 11:26:50,92.73,64987,Falkland Islands (Malvinas),3709.2
+500209,44760,Hoodie,Sports,27,2024-03-04 01:00:59,92.73,13478,Anguilla,2503.71
+529068,84364,Candle,Electronics,30,2024-09-07 13:30:27,94.75,38785,Anguilla,2842.5
+448787,49117,Camping Tent,Office Supplies,12,2024-08-25 10:53:37,84.33,98696,Northern Mariana Islands,1011.96
+898169,89507,Keychain,Clothing,37,2024-02-23 01:14:21,42.89,47930,Burundi,1586.93
+235691,22833,Plate,Office Supplies,41,2025-07-15 04:41:43,6.01,91070,Saint Pierre and Miquelon,246.41
+139557,77839,Tote Bag,Clothing,47,2025-07-17 09:18:41,45.7,13278,Saint Pierre and Miquelon,2147.9
+235193,36365,Desk Organizer,Sports,33,2023-09-20 10:57:36,71.58,36062,Northern Mariana Islands,2362.14
+404955,76542,Gloves,Travel,34,2023-10-22 16:34:05,91.35,89131,Falkland Islands (Malvinas),3105.9
+240288,54473,Tripod,Electronics,32,2024-12-16 15:55:08,80.26,64987,Anguilla,2568.32
+951452,82845,Cap,Sports,15,2024-07-06 00:01:28,66.53,40495,Saint Vincent and the Grenadines,997.95
+629146,69470,Pen,Travel,24,2025-05-17 04:10:08,1.32,39256,Falkland Islands (Malvinas),31.68
+908713,17100,Flashlight,Travel,4,2024-03-13 21:41:35,67.66,23434,Czech Republic,270.64
+120700,17100,Flashlight,Travel,8,2023-09-15 05:50:12,67.66,26361,Anguilla,541.28
+835962,26483,Desk Lamp,Sports,45,2023-08-14 18:05:47,13.71,13278,Saint Vincent and the Grenadines,616.95
+794663,22899,Water Bottle,Travel,40,2024-04-27 01:56:40,7.0,76237,Falkland Islands (Malvinas),280.0
+636435,82845,Cap,Sports,8,2025-04-01 22:42:15,66.53,13905,Falkland Islands (Malvinas),532.24
+915749,56438,Book,Sports,34,2023-11-21 14:39:18,42.93,15695,Czech Republic,1459.62
+141319,80686,Clock,Travel,14,2024-12-18 20:39:14,75.77,39871,Saint Vincent and the Grenadines,1060.78
+804258,69470,Pen,Travel,8,2024-03-02 11:12:00,1.32,31417,Falkland Islands (Malvinas),10.56
+917392,17989,Planner,Electronics,47,2023-12-15 12:06:22,75.05,54597,Czech Republic,3527.35
+410401,92719,Calculator,Electronics,4,2025-03-09 17:32:44,6.83,95181,Saint Pierre and Miquelon,27.32
+477712,38016,Thermos,Electronics,21,2024-07-20 04:24:39,86.6,22280,Bouvet Island (Bouvetoya),1818.6
+752011,47388,Picture Frame,Travel,47,2025-02-10 02:35:40,42.88,89131,Anguilla,2015.36
+578715,77839,Tote Bag,Clothing,25,2024-07-09 04:39:43,45.7,39871,Burundi,1142.5
+935620,17100,Flashlight,Travel,9,2024-10-20 16:03:42,67.66,98696,Saint Pierre and Miquelon,608.94
+208751,31798,Jacket,Sports,38,2023-08-19 12:15:22,41.23,58520,Czech Republic,1566.74
+498197,50306,Belt,Clothing,40,2023-11-06 21:28:49,24.71,59735,Saint Pierre and Miquelon,988.4
+237002,68800,Phone Case,Clothing,32,2023-10-09 10:38:49,14.88,48427,Falkland Islands (Malvinas),476.16
+786789,76542,Gloves,Travel,46,2025-06-27 22:17:46,91.35,46434,Burundi,4202.1
+692458,71993,Mug,Clothing,43,2025-01-29 17:32:21,80.94,59823,Ecuador,3480.42
+199868,42591,Back Scratcher,Office Supplies,47,2025-07-14 02:26:59,19.97,44671,Czech Republic,938.59
+255875,17100,Flashlight,Travel,36,2023-12-05 18:34:23,67.66,94939,Northern Mariana Islands,2435.76
+264550,17100,Flashlight,Travel,31,2024-10-08 18:32:24,67.66,36062,Bouvet Island (Bouvetoya),2097.46
+352593,14117,Mouse Pad,Electronics,18,2023-09-08 23:36:47,86.1,46463,Ecuador,1549.8
+956794,77839,Tote Bag,Clothing,30,2025-05-21 05:58:43,45.7,56566,Falkland Islands (Malvinas),1371.0
+568784,31579,T-Shirt,Sports,32,2024-05-24 18:41:05,38.52,46048,Bouvet Island (Bouvetoya),1232.64
+684194,39451,Umbrella,Electronics,6,2024-11-06 10:45:55,7.34,19358,Czech Republic,44.04
+689648,47388,Picture Frame,Travel,43,2024-10-14 03:48:51,42.88,89131,Falkland Islands (Malvinas),1843.84
+333746,76542,Gloves,Travel,22,2023-12-05 00:40:05,91.35,19358,Czech Republic,2009.7
+480941,68800,Phone Case,Clothing,8,2024-07-10 19:48:18,14.88,42087,Saint Vincent and the Grenadines,119.04
+970196,36365,Desk Organizer,Sports,19,2023-11-18 23:45:24,71.58,80284,Czech Republic,1360.02
+272129,76542,Gloves,Travel,46,2023-09-13 11:44:47,91.35,48427,Anguilla,4202.1
+296653,56438,Book,Sports,26,2024-04-07 10:21:07,42.93,64987,Czech Republic,1116.18
+534603,31174,Floor Mat,Office Supplies,41,2024-05-21 05:35:48,54.4,97841,Anguilla,2230.4
+579605,47388,Picture Frame,Travel,33,2025-07-10 06:13:46,42.88,20458,Northern Mariana Islands,1415.04
+680099,68800,Phone Case,Clothing,38,2025-08-05 18:01:16,14.88,23238,Burundi,565.44
+825423,82845,Cap,Sports,47,2025-04-21 08:47:43,66.53,13905,Falkland Islands (Malvinas),3126.91
+437477,56438,Book,Sports,25,2025-06-10 12:39:32,42.93,99593,Saint Pierre and Miquelon,1073.25
+386886,22833,Plate,Office Supplies,22,2023-09-11 23:41:39,6.01,35203,Burundi,132.22
+731792,10074,Cutlery Set,Sports,48,2025-07-10 05:10:11,60.3,93886,Ecuador,2894.4
+872610,80686,Clock,Travel,41,2024-05-15 22:02:51,75.77,68878,Czech Republic,3106.57
+462066,80686,Clock,Travel,9,2024-01-22 04:06:37,75.77,80010,Saint Pierre and Miquelon,681.93
+668843,50306,Belt,Clothing,21,2025-01-22 18:38:40,24.71,51347,Falkland Islands (Malvinas),518.91
+698357,14117,Mouse Pad,Electronics,46,2024-02-21 19:34:17,86.1,40021,Saint Pierre and Miquelon,3960.6
+988459,77391,Mirror,Travel,1,2025-01-11 00:32:23,24.56,42098,Falkland Islands (Malvinas),24.56
+159354,76542,Gloves,Travel,49,2023-10-30 20:12:43,91.35,54118,Czech Republic,4476.15
+165046,12552,Charger,Home & Kitchen,19,2024-05-12 17:02:51,12.07,93320,Northern Mariana Islands,229.33
+207458,11934,Raincoat,Clothing,44,2025-04-08 22:25:14,96.93,46463,Burundi,4264.92
+349136,84847,Blanket,Clothing,45,2024-10-19 20:59:06,58.04,31417,Northern Mariana Islands,2611.8
+536801,77839,Tote Bag,Clothing,44,2025-06-28 17:27:55,45.7,57819,Northern Mariana Islands,2010.8
+312952,68800,Phone Case,Clothing,50,2025-06-21 09:49:37,14.88,85674,Burundi,744.0
+838857,82845,Cap,Sports,24,2024-06-22 15:25:24,66.53,93320,Burundi,1596.72
+860127,84364,Candle,Electronics,19,2024-12-06 01:58:08,94.75,59735,Bouvet Island (Bouvetoya),1800.25
+870786,17989,Planner,Electronics,25,2025-03-16 03:16:31,75.05,38221,Ecuador,1876.25
+712353,10074,Cutlery Set,Sports,1,2023-12-10 01:04:58,60.3,83000,Saint Pierre and Miquelon,60.3
+438302,76542,Gloves,Travel,50,2025-07-31 01:29:18,91.35,94939,Burundi,4567.5
+928278,80686,Clock,Travel,23,2025-08-03 06:14:18,75.77,83000,Saint Vincent and the Grenadines,1742.71
+292800,26483,Desk Lamp,Sports,33,2024-02-11 21:06:13,13.71,93320,Ecuador,452.43
+331942,89818,Sneakers,Home & Kitchen,43,2025-06-13 13:25:06,20.69,70217,Saint Vincent and the Grenadines,889.67
+748314,17989,Planner,Electronics,36,2023-12-16 05:15:08,75.05,80010,Northern Mariana Islands,2701.8
+567315,22899,Water Bottle,Travel,42,2025-04-24 06:58:29,7.0,19358,Saint Vincent and the Grenadines,294.0
+436526,76542,Gloves,Travel,8,2025-05-02 17:52:49,91.35,93320,Burundi,730.8
+641975,69470,Pen,Travel,24,2023-12-27 12:29:43,1.32,23238,Falkland Islands (Malvinas),31.68
+783176,76542,Gloves,Travel,33,2025-06-26 14:47:20,91.35,14165,Anguilla,3014.55
+664107,17989,Planner,Electronics,41,2024-06-27 05:43:29,75.05,31417,Czech Republic,3077.05
+818699,84364,Candle,Electronics,7,2023-08-31 06:03:04,94.75,93886,Saint Pierre and Miquelon,663.25
+556379,68800,Phone Case,Clothing,5,2023-12-29 07:31:30,14.88,13478,Northern Mariana Islands,74.4
+139726,68800,Phone Case,Clothing,4,2025-03-06 02:33:24,14.88,54597,Ecuador,59.52
+338703,71993,Mug,Clothing,27,2025-07-30 01:41:32,80.94,89840,Falkland Islands (Malvinas),2185.38
+834928,22363,Backpack,Sports,23,2025-04-10 16:44:28,10.6,13905,Saint Vincent and the Grenadines,243.8
+736030,54473,Tripod,Electronics,49,2025-08-03 23:39:56,80.26,26361,Falkland Islands (Malvinas),3932.74
+597012,22899,Water Bottle,Travel,15,2024-06-26 18:53:22,7.0,20328,Burundi,105.0
+409307,38016,Thermos,Electronics,10,2025-04-26 02:44:48,86.6,52504,Czech Republic,866.0
+111691,17989,Planner,Electronics,36,2025-01-13 07:58:26,75.05,28289,Northern Mariana Islands,2701.8
+663244,56438,Book,Sports,6,2025-06-13 03:19:15,42.93,40021,Burundi,257.58
+322022,68800,Phone Case,Clothing,42,2025-03-04 22:27:56,14.88,88907,Anguilla,624.96
+975297,26483,Desk Lamp,Sports,8,2025-05-02 17:27:45,13.71,58520,Burundi,109.68
+675512,38016,Thermos,Electronics,36,2024-02-20 18:10:21,86.6,31417,Northern Mariana Islands,3117.6
+860835,89818,Sneakers,Home & Kitchen,22,2024-03-06 05:37:08,20.69,31417,Czech Republic,455.18
+749609,89818,Sneakers,Home & Kitchen,13,2023-12-13 15:39:46,20.69,35203,Saint Vincent and the Grenadines,268.97
+827143,22899,Water Bottle,Travel,37,2025-04-14 13:43:28,7.0,22676,Saint Pierre and Miquelon,259.0
+428429,50306,Belt,Clothing,15,2025-02-06 16:46:22,24.71,32431,Falkland Islands (Malvinas),370.65
+240829,31798,Jacket,Sports,22,2023-11-03 23:02:54,41.23,16006,Falkland Islands (Malvinas),907.06
+610626,22833,Plate,Office Supplies,12,2024-06-04 03:05:40,6.01,87397,Burundi,72.12
+246802,44760,Hoodie,Sports,13,2025-06-19 10:22:02,92.73,89840,Bouvet Island (Bouvetoya),1205.49
+119535,49117,Camping Tent,Office Supplies,41,2023-09-11 01:52:44,84.33,37460,Czech Republic,3457.53
+323095,22833,Plate,Office Supplies,36,2025-06-08 21:20:17,6.01,93320,Falkland Islands (Malvinas),216.36
+483588,22833,Plate,Office Supplies,50,2024-08-11 14:17:52,6.01,23396,Anguilla,300.5
+194952,14117,Mouse Pad,Electronics,33,2024-01-31 18:27:54,86.1,30926,Burundi,2841.3
+743863,11934,Raincoat,Clothing,49,2024-01-14 00:18:25,96.93,35203,Anguilla,4749.57
+693297,71993,Mug,Clothing,10,2025-05-07 06:16:39,80.94,39871,Saint Pierre and Miquelon,809.4
+898461,76542,Gloves,Travel,5,2025-07-25 09:11:03,91.35,10851,Northern Mariana Islands,456.75
+929906,84364,Candle,Electronics,31,2024-08-03 12:40:27,94.75,28289,Northern Mariana Islands,2937.25
+208239,17100,Flashlight,Travel,34,2024-05-09 14:06:19,67.66,38221,Burundi,2300.44
+670792,89507,Keychain,Clothing,25,2024-04-05 01:10:12,42.89,70217,Czech Republic,1072.25
+181618,82845,Cap,Sports,25,2025-05-10 07:54:24,66.53,46463,Ecuador,1663.25
+461792,98039,Slippers,Sports,31,2025-04-20 18:18:52,65.34,24592,Falkland Islands (Malvinas),2025.54
+273650,10074,Cutlery Set,Sports,33,2025-06-18 18:38:19,60.3,87236,Anguilla,1989.9
+731264,50306,Belt,Clothing,8,2024-02-04 18:41:14,24.71,92397,Burundi,197.68
+604906,68800,Phone Case,Clothing,31,2024-02-01 03:35:46,14.88,83563,Czech Republic,461.28
+355506,39451,Umbrella,Electronics,37,2023-08-30 09:08:13,7.34,76237,Czech Republic,271.58
+700067,76542,Gloves,Travel,11,2025-01-05 15:54:37,91.35,81426,Ecuador,1004.85
+690982,39451,Umbrella,Electronics,47,2024-01-09 00:12:00,7.34,54118,Saint Pierre and Miquelon,344.98
+735988,84364,Candle,Electronics,31,2024-06-16 11:56:39,94.75,48427,Czech Republic,2937.25
+960307,11934,Raincoat,Clothing,40,2024-04-22 23:14:46,96.93,46421,Anguilla,3877.2
+575497,54473,Tripod,Electronics,5,2024-03-15 09:32:14,80.26,59615,Anguilla,401.3
+648102,69470,Pen,Travel,33,2025-06-13 08:42:24,1.32,13478,Czech Republic,43.56
+744610,50306,Belt,Clothing,35,2023-10-04 22:05:47,24.71,38657,Bouvet Island (Bouvetoya),864.85
+732789,22899,Water Bottle,Travel,1,2025-04-03 15:51:12,7.0,45093,Czech Republic,7.0
+541119,87110,Watch,Office Supplies,3,2024-03-15 19:16:01,55.84,91070,Saint Vincent and the Grenadines,167.52
+927909,11934,Raincoat,Clothing,23,2024-05-10 17:50:17,96.93,17331,Saint Pierre and Miquelon,2229.39
+704106,31798,Jacket,Sports,9,2024-12-22 06:05:10,41.23,62581,Saint Vincent and the Grenadines,371.07
+397026,44760,Hoodie,Sports,35,2024-09-10 16:00:36,92.73,64987,Northern Mariana Islands,3245.55
+107459,68800,Phone Case,Clothing,8,2024-06-17 10:32:42,14.88,26361,Czech Republic,119.04
+431246,54473,Tripod,Electronics,7,2025-01-20 19:08:08,80.26,80010,Czech Republic,561.82
+662146,89507,Keychain,Clothing,24,2025-05-28 06:59:02,42.89,59735,Falkland Islands (Malvinas),1029.36
+678923,84364,Candle,Electronics,31,2024-10-01 11:47:08,94.75,31319,Ecuador,2937.25
+421549,82063,Headphones,Office Supplies,50,2024-04-25 05:04:51,17.35,17331,Anguilla,867.5
+224870,44760,Hoodie,Sports,29,2025-08-10 12:38:57,92.73,83563,Bouvet Island (Bouvetoya),2689.17
+924265,14117,Mouse Pad,Electronics,36,2023-09-02 10:30:40,86.1,59735,Czech Republic,3099.6
+167193,38864,Sunglasses,Travel,24,2025-06-23 05:10:51,1.71,39256,Burundi,41.04
+520106,30289,Yoga Mat,Clothing,34,2024-03-01 21:24:15,19.8,44993,Northern Mariana Islands,673.2
+283785,22833,Plate,Office Supplies,29,2023-12-28 16:44:43,6.01,42087,Saint Pierre and Miquelon,174.29
+304206,77391,Mirror,Travel,39,2024-11-04 22:58:37,24.56,93886,Saint Vincent and the Grenadines,957.84
+514337,98039,Slippers,Sports,13,2023-09-10 17:09:57,65.34,17331,Czech Republic,849.42
+676289,82845,Cap,Sports,36,2023-11-04 04:46:11,66.53,44671,Falkland Islands (Malvinas),2395.08
+337288,11934,Raincoat,Clothing,13,2024-11-17 08:53:39,96.93,82357,Czech Republic,1260.09
+526911,89507,Keychain,Clothing,36,2024-07-14 12:51:20,42.89,23396,Falkland Islands (Malvinas),1544.04
+638220,10074,Cutlery Set,Sports,35,2024-05-06 12:04:29,60.3,56566,Saint Vincent and the Grenadines,2110.5
+495397,38864,Sunglasses,Travel,50,2025-02-27 21:03:51,1.71,89131,Saint Pierre and Miquelon,85.5
+583100,92719,Calculator,Electronics,2,2025-04-13 20:05:01,6.83,46421,Bouvet Island (Bouvetoya),13.66
+331087,17100,Flashlight,Travel,15,2024-04-11 15:22:08,67.66,48427,Saint Pierre and Miquelon,1014.9
+110195,14117,Mouse Pad,Electronics,17,2024-07-15 22:58:17,86.1,65302,Falkland Islands (Malvinas),1463.7
+458605,68800,Phone Case,Clothing,12,2024-11-24 20:33:07,14.88,15695,Saint Vincent and the Grenadines,178.56
+291663,71993,Mug,Clothing,44,2024-09-12 05:37:00,80.94,64987,Falkland Islands (Malvinas),3561.36
+871153,84364,Candle,Electronics,17,2023-11-09 19:47:37,94.75,38893,Burundi,1610.75
+473321,31798,Jacket,Sports,7,2024-06-06 04:33:47,41.23,87397,Czech Republic,288.61
+702427,36365,Desk Organizer,Sports,32,2024-11-01 20:22:48,71.58,51347,Saint Pierre and Miquelon,2290.56
+332881,80686,Clock,Travel,9,2024-01-06 15:19:30,75.77,91070,Falkland Islands (Malvinas),681.93
+626883,73624,Notebook,Clothing,44,2024-02-25 20:22:18,22.21,19116,Saint Pierre and Miquelon,977.24
+582418,54473,Tripod,Electronics,1,2023-09-15 11:25:29,80.26,68878,Falkland Islands (Malvinas),80.26
+479167,89818,Sneakers,Home & Kitchen,17,2025-02-12 12:42:55,20.69,46421,Saint Vincent and the Grenadines,351.73
+742865,92719,Calculator,Electronics,12,2024-07-15 16:42:04,6.83,68878,Falkland Islands (Malvinas),81.96
+482812,68800,Phone Case,Clothing,18,2023-08-13 07:31:39,14.88,56566,Anguilla,267.84
+339669,71993,Mug,Clothing,47,2024-09-18 20:01:03,80.94,30926,Ecuador,3804.18
+305587,31579,T-Shirt,Sports,48,2025-07-30 21:58:17,38.52,13278,Anguilla,1848.96
+990649,14117,Mouse Pad,Electronics,35,2025-04-29 10:27:08,86.1,47930,Saint Vincent and the Grenadines,3013.5
+695417,71993,Mug,Clothing,7,2024-10-03 05:28:21,80.94,98696,Saint Vincent and the Grenadines,566.58
+979725,82063,Headphones,Office Supplies,29,2025-01-26 11:56:42,17.35,46421,Falkland Islands (Malvinas),503.15
+949363,84847,Blanket,Clothing,2,2025-02-20 19:08:49,58.04,44671,Burundi,116.08
+308622,17989,Planner,Electronics,42,2025-08-11 07:46:29,75.05,95181,Saint Pierre and Miquelon,3152.1
+440881,80686,Clock,Travel,32,2025-03-10 06:57:06,75.77,35203,Saint Pierre and Miquelon,2424.64
+400441,77839,Tote Bag,Clothing,10,2025-03-06 11:22:42,45.7,93227,Burundi,457.0
+761938,36365,Desk Organizer,Sports,26,2025-01-13 21:25:17,71.58,21395,Bouvet Island (Bouvetoya),1861.08
+428709,36365,Desk Organizer,Sports,19,2024-01-12 01:00:03,71.58,99593,Czech Republic,1360.02
+566509,89507,Keychain,Clothing,24,2024-05-20 21:34:49,42.89,59823,Saint Pierre and Miquelon,1029.36
+292818,39451,Umbrella,Electronics,9,2024-07-11 23:57:58,7.34,42087,Saint Vincent and the Grenadines,66.06
+886159,68800,Phone Case,Clothing,11,2023-10-05 08:24:22,14.88,14165,Northern Mariana Islands,163.68
+675074,44760,Hoodie,Sports,50,2025-01-08 22:17:16,92.73,51347,Saint Pierre and Miquelon,4636.5
+748127,89818,Sneakers,Home & Kitchen,42,2025-07-27 04:24:46,20.69,59615,Saint Vincent and the Grenadines,868.98
+397979,26483,Desk Lamp,Sports,9,2024-04-24 11:22:29,13.71,36062,Northern Mariana Islands,123.39
+440998,22899,Water Bottle,Travel,30,2024-12-08 00:27:31,7.0,93320,Saint Pierre and Miquelon,210.0
+241678,84847,Blanket,Clothing,45,2024-04-11 19:48:42,58.04,97841,Czech Republic,2611.8
+766738,17100,Flashlight,Travel,28,2025-01-08 06:26:19,67.66,93227,Ecuador,1894.48
+605048,82845,Cap,Sports,6,2025-05-31 16:09:02,66.53,70217,Falkland Islands (Malvinas),399.18
+615827,54473,Tripod,Electronics,31,2025-02-21 01:11:30,80.26,62581,Falkland Islands (Malvinas),2488.06
+342446,80686,Clock,Travel,36,2025-07-11 02:05:20,75.77,48427,Saint Pierre and Miquelon,2727.72
+362035,38864,Sunglasses,Travel,48,2024-04-01 06:24:46,1.71,26361,Saint Vincent and the Grenadines,82.08
+755698,49117,Camping Tent,Office Supplies,49,2024-09-08 21:26:55,84.33,94939,Burundi,4132.17
+398505,54473,Tripod,Electronics,35,2024-04-08 05:29:02,80.26,48427,Anguilla,2809.1
+243260,76542,Gloves,Travel,41,2025-01-10 23:47:05,91.35,35203,Saint Vincent and the Grenadines,3745.35
+296911,56438,Book,Sports,10,2024-06-24 04:59:44,42.93,69429,Northern Mariana Islands,429.3
+395818,79615,Travel Pillow,Office Supplies,46,2024-04-21 08:29:24,16.59,13278,Saint Vincent and the Grenadines,763.14
+617555,12552,Charger,Home & Kitchen,27,2024-06-19 13:17:12,12.07,20458,Bosnia and Herzegovina,325.89
+929868,92719,Calculator,Electronics,6,2025-02-03 12:54:24,6.83,88907,Northern Mariana Islands,40.98
+174852,22833,Plate,Office Supplies,12,2024-03-28 15:24:44,6.01,54597,Burundi,72.12
+227885,31798,Jacket,Sports,46,2024-10-15 14:59:51,41.23,62581,Saint Pierre and Miquelon,1896.58
+135138,26483,Desk Lamp,Sports,48,2023-11-18 20:48:59,13.71,59823,Czech Republic,658.08
+508024,84364,Candle,Electronics,20,2024-01-08 00:09:30,94.75,83563,Czech Republic,1895.0
+676276,76542,Gloves,Travel,17,2024-07-03 13:41:15,91.35,22156,Anguilla,1552.95
+799080,47388,Picture Frame,Travel,8,2025-01-09 11:10:58,42.88,57400,Saint Vincent and the Grenadines,343.04
+389511,50306,Belt,Clothing,26,2025-08-11 09:38:57,24.71,13278,Saint Pierre and Miquelon,642.46
+824305,71993,Mug,Clothing,39,2024-06-01 11:46:48,80.94,62581,Bouvet Island (Bouvetoya),3156.66
+195841,50306,Belt,Clothing,22,2025-01-19 02:07:17,24.71,51347,Czech Republic,543.62
+775885,76542,Gloves,Travel,35,2025-03-15 02:14:20,91.35,40495,Falkland Islands (Malvinas),3197.25
+685472,36365,Desk Organizer,Sports,49,2025-07-13 05:30:54,71.58,85674,Burundi,3507.42
+496119,69470,Pen,Travel,9,2023-12-25 04:06:17,1.32,28289,Falkland Islands (Malvinas),11.88
+409030,38864,Sunglasses,Travel,32,2024-12-02 02:01:46,1.71,81426,Ecuador,54.72
+591147,36365,Desk Organizer,Sports,39,2024-10-27 00:53:27,71.58,57819,Anguilla,2791.62
+571213,77391,Mirror,Travel,17,2024-04-01 18:06:44,24.56,19116,Northern Mariana Islands,417.52
+497455,17100,Flashlight,Travel,2,2024-06-22 09:47:23,67.66,70217,Burundi,135.32
+856027,26483,Desk Lamp,Sports,35,2024-10-10 14:17:23,13.71,64987,Ecuador,479.85
+678255,14117,Mouse Pad,Electronics,19,2025-05-20 13:45:49,86.1,32431,Saint Vincent and the Grenadines,1635.9
+790897,89818,Sneakers,Home & Kitchen,9,2023-08-12 07:34:02,20.69,39256,Anguilla,186.21
+203550,14117,Mouse Pad,Electronics,42,2024-04-04 00:38:22,86.1,42087,Falkland Islands (Malvinas),3616.2
+718975,56438,Book,Sports,24,2024-03-21 20:27:33,42.93,38785,Bouvet Island (Bouvetoya),1030.32
+318877,30289,Yoga Mat,Clothing,6,2024-01-22 06:05:21,19.8,93227,Northern Mariana Islands,118.8
+536158,84847,Blanket,Clothing,46,2024-07-10 21:41:45,58.04,94939,Saint Vincent and the Grenadines,2669.84
+173807,76542,Gloves,Travel,5,2025-04-13 07:36:22,91.35,59823,Bouvet Island (Bouvetoya),456.75
+657487,68800,Phone Case,Clothing,13,2024-11-04 11:41:59,14.88,65392,Ecuador,193.44
+685549,17989,Planner,Electronics,27,2024-11-25 04:59:28,75.05,62581,Czech Republic,2026.35
+581003,98039,Slippers,Sports,28,2025-01-01 12:35:50,65.34,36062,Burundi,1829.52
+629208,84847,Blanket,Clothing,11,2024-04-18 07:09:39,58.04,44993,Falkland Islands (Malvinas),638.44
+430463,98039,Slippers,Sports,21,2024-08-07 04:00:29,65.34,48427,Burundi,1372.14
+861127,87110,Watch,Office Supplies,16,2024-07-20 03:29:17,55.84,87236,Falkland Islands (Malvinas),893.44
+880746,84847,Blanket,Clothing,29,2024-07-20 10:27:21,58.04,20328,Northern Mariana Islands,1683.16
+398301,44522,Laptop Sleeve,Clothing,34,2025-01-17 18:36:16,97.22,22156,Northern Mariana Islands,3305.48
+325258,20500,Earbuds,Electronics,2,2024-01-24 23:40:58,85.28,45382,Burundi,170.56
+636107,82845,Cap,Sports,37,2024-09-12 00:58:26,66.53,39256,Falkland Islands (Malvinas),2461.61
+377860,50306,Belt,Clothing,38,2024-08-13 12:49:47,24.71,54597,Burundi,938.98
+519218,89818,Sneakers,Home & Kitchen,14,2025-04-19 12:18:00,20.69,99733,Saint Vincent and the Grenadines,289.66
+611994,14117,Mouse Pad,Electronics,45,2025-07-11 23:13:41,86.1,14165,Czech Republic,3874.5
+866288,80686,Clock,Travel,25,2025-04-21 06:58:37,75.77,98696,Saint Pierre and Miquelon,1894.25
+956835,36365,Desk Organizer,Sports,8,2025-03-05 15:18:56,71.58,10851,Burundi,572.64
+111989,38016,Thermos,Electronics,41,2023-12-21 19:16:36,86.6,59797,Ecuador,3550.6
+692354,36365,Desk Organizer,Sports,33,2025-01-04 17:52:05,71.58,13478,Northern Mariana Islands,2362.14
+511967,68800,Phone Case,Clothing,49,2023-10-16 20:42:12,14.88,40512,Bouvet Island (Bouvetoya),729.12
+924566,87110,Watch,Office Supplies,9,2024-03-19 10:09:43,55.84,96673,Ecuador,502.56
+518582,76542,Gloves,Travel,26,2024-09-15 08:43:18,91.35,45093,Czech Republic,2375.1
+604283,22833,Plate,Office Supplies,32,2025-01-08 15:07:56,6.01,56566,Anguilla,192.32
+871403,56438,Book,Sports,16,2024-12-15 14:52:21,42.93,45093,Falkland Islands (Malvinas),686.88
+703998,54473,Tripod,Electronics,43,2024-12-04 23:51:29,80.26,70217,Falkland Islands (Malvinas),3451.18
+722725,36365,Desk Organizer,Sports,50,2024-04-28 08:21:43,71.58,44671,Czech Republic,3579.0
+563690,20500,Earbuds,Electronics,29,2023-10-23 12:51:48,85.28,10851,Anguilla,2473.12
+894541,98039,Slippers,Sports,6,2025-05-08 16:31:08,65.34,23434,Saint Vincent and the Grenadines,392.04
+254850,56438,Book,Sports,19,2025-03-17 10:13:47,42.93,45382,Burundi,815.67
+594078,80686,Clock,Travel,14,2024-02-10 10:16:04,75.77,87236,Anguilla,1060.78
+371222,77391,Mirror,Travel,40,2025-01-15 13:49:13,24.56,88907,Czech Republic,982.4
+494900,22899,Water Bottle,Travel,43,2024-04-09 02:38:17,7.0,54597,Anguilla,301.0
+927524,80686,Clock,Travel,18,2024-02-02 11:36:19,75.77,80010,Saint Pierre and Miquelon,1363.86
+792451,76542,Gloves,Travel,43,2025-04-29 11:25:19,91.35,13905,Northern Mariana Islands,3928.05
+780956,44760,Hoodie,Sports,25,2024-01-13 16:03:03,92.73,83000,Bouvet Island (Bouvetoya),2318.25
+726111,36365,Desk Organizer,Sports,12,2023-12-04 10:52:37,71.58,19116,Ecuador,858.96
+141683,42591,Back Scratcher,Office Supplies,34,2023-08-30 23:19:20,19.97,47930,Falkland Islands (Malvinas),678.98
+463625,50306,Belt,Clothing,23,2023-09-16 21:29:10,24.71,30926,Saint Pierre and Miquelon,568.33
+389279,79615,Travel Pillow,Office Supplies,41,2024-02-18 04:11:44,16.59,59615,Saint Pierre and Miquelon,680.19
+130897,11934,Raincoat,Clothing,18,2024-08-15 01:11:00,96.93,89131,Saint Pierre and Miquelon,1744.74
+192059,17100,Flashlight,Travel,34,2024-11-28 18:58:21,67.66,94939,Saint Pierre and Miquelon,2300.44
+537605,54473,Tripod,Electronics,10,2025-06-02 00:15:31,80.26,59797,Saint Pierre and Miquelon,802.6
+668573,36365,Desk Organizer,Sports,42,2025-03-30 21:40:46,71.58,93320,Czech Republic,3006.36
+244818,84364,Candle,Electronics,46,2023-10-07 13:36:59,94.75,76237,Falkland Islands (Malvinas),4358.5
+907455,82845,Cap,Sports,37,2024-07-30 17:34:21,66.53,22676,Bouvet Island (Bouvetoya),2461.61
+854388,77391,Mirror,Travel,21,2024-06-28 21:44:25,24.56,88907,Burundi,515.76
+534152,22833,Plate,Office Supplies,20,2025-06-30 06:47:21,6.01,93227,Saint Pierre and Miquelon,120.2
+916953,89507,Keychain,Clothing,9,2024-12-13 03:40:39,42.89,51347,Saint Pierre and Miquelon,386.01
+735022,56438,Book,Sports,15,2024-11-01 03:17:00,42.93,10851,Czech Republic,643.95
+821568,98039,Slippers,Sports,9,2024-01-10 00:32:07,65.34,99593,Falkland Islands (Malvinas),588.06
+292913,17100,Flashlight,Travel,32,2025-02-19 22:56:18,67.66,83563,Anguilla,2165.12
+901677,44522,Laptop Sleeve,Clothing,18,2025-02-02 20:59:02,97.22,46463,Burundi,1749.96
+894586,20500,Earbuds,Electronics,12,2024-06-05 05:52:38,85.28,85674,Burundi,1023.36
+440677,14117,Mouse Pad,Electronics,16,2024-08-29 23:51:30,86.1,45093,Northern Mariana Islands,1377.6
+498851,68800,Phone Case,Clothing,26,2024-06-17 10:04:09,14.88,40021,Ecuador,386.88
+772550,73624,Notebook,Clothing,3,2024-02-17 12:11:58,22.21,35203,Falkland Islands (Malvinas),66.63
+357657,44760,Hoodie,Sports,26,2023-12-04 14:55:45,92.73,28289,Ecuador,2410.98
+761282,14117,Mouse Pad,Electronics,13,2025-01-02 13:48:27,86.1,20328,Saint Pierre and Miquelon,1119.3
+399803,22833,Plate,Office Supplies,28,2025-01-27 02:12:39,6.01,23434,Czech Republic,168.28
+586097,82845,Cap,Sports,29,2023-08-16 07:21:46,66.53,40512,Anguilla,1929.37
+829928,22833,Plate,Office Supplies,26,2025-07-05 08:23:06,6.01,35203,Northern Mariana Islands,156.26
+847251,92719,Calculator,Electronics,30,2025-03-17 06:59:32,6.83,57052,Czech Republic,204.9
+935176,82845,Cap,Sports,47,2025-06-10 07:46:28,66.53,22280,Czech Republic,3126.91
+189450,17100,Flashlight,Travel,25,2025-04-01 02:42:04,67.66,23238,Czech Republic,1691.5
+677079,50306,Belt,Clothing,50,2025-06-29 18:16:04,24.71,55082,Ecuador,1235.5
+257380,22899,Water Bottle,Travel,10,2023-11-02 18:55:52,7.0,38785,Northern Mariana Islands,70.0
+865630,80686,Clock,Travel,29,2025-04-07 14:48:29,75.77,81426,Anguilla,2197.33
+106029,73624,Notebook,Clothing,32,2024-01-28 23:29:40,22.21,97841,Czech Republic,710.72
+965339,84847,Blanket,Clothing,12,2025-04-27 13:41:38,58.04,80010,Falkland Islands (Malvinas),696.48
+134007,12552,Charger,Home & Kitchen,39,2025-02-02 12:44:08,12.07,65302,Northern Mariana Islands,470.73
+286906,39451,Umbrella,Electronics,19,2024-09-17 07:25:56,7.34,45382,Czech Republic,139.46
+689485,71993,Mug,Clothing,30,2024-08-06 19:50:15,80.94,70217,Saint Pierre and Miquelon,2428.2
+413833,89818,Sneakers,Home & Kitchen,25,2023-09-20 00:08:18,20.69,51347,Falkland Islands (Malvinas),517.25
+407057,84847,Blanket,Clothing,8,2024-10-17 22:47:49,58.04,38221,Saint Vincent and the Grenadines,464.32
+320038,39451,Umbrella,Electronics,40,2024-02-21 13:23:33,7.34,56566,Burundi,293.6
+191928,17100,Flashlight,Travel,45,2025-07-24 14:52:50,67.66,83000,Saint Vincent and the Grenadines,3044.7
+431862,56438,Book,Sports,37,2025-05-31 22:08:08,42.93,15695,Saint Pierre and Miquelon,1588.41
+620509,56438,Book,Sports,41,2023-11-14 06:17:17,42.93,81426,Saint Pierre and Miquelon,1760.13
+404598,26483,Desk Lamp,Sports,1,2024-07-31 13:03:54,13.71,16006,Czech Republic,13.71
+989265,10074,Cutlery Set,Sports,40,2023-11-23 13:37:15,60.3,48427,Northern Mariana Islands,2412.0
+945197,98039,Slippers,Sports,1,2025-04-25 11:29:17,65.34,45382,Saint Vincent and the Grenadines,65.34
+422722,11934,Raincoat,Clothing,36,2024-08-06 21:34:39,96.93,24592,Anguilla,3489.48
+515287,36365,Desk Organizer,Sports,40,2025-01-11 12:33:03,71.58,95181,Anguilla,2863.2
+805139,31798,Jacket,Sports,31,2024-09-27 13:00:57,41.23,32431,Anguilla,1278.13
+582992,50306,Belt,Clothing,35,2024-10-19 03:07:21,24.71,16006,Burundi,864.85
+878656,39451,Umbrella,Electronics,34,2024-11-16 12:02:08,7.34,99733,Czech Republic,249.56
+119627,84847,Blanket,Clothing,44,2024-04-14 10:51:45,58.04,15695,Northern Mariana Islands,2553.76
+981578,12552,Charger,Home & Kitchen,25,2025-03-20 14:52:50,12.07,36062,Ecuador,301.75
+724103,77839,Tote Bag,Clothing,49,2025-07-04 09:23:01,45.7,22676,Czech Republic,2239.3
+191014,89507,Keychain,Clothing,16,2024-07-20 18:09:59,42.89,22156,Saint Vincent and the Grenadines,686.24
+217683,80686,Clock,Travel,3,2024-11-29 20:40:01,75.77,65302,Falkland Islands (Malvinas),227.31
+606109,69470,Pen,Travel,10,2025-05-06 00:49:20,1.32,39871,Burundi,13.2
+913205,77391,Mirror,Travel,50,2025-02-20 16:14:18,24.56,59823,Czech Republic,1228.0
+859767,10074,Cutlery Set,Sports,25,2025-07-04 20:27:48,60.3,59823,Anguilla,1507.5
+146168,80686,Clock,Travel,39,2024-09-07 01:44:49,75.77,55082,Falkland Islands (Malvinas),2955.03
+645865,76542,Gloves,Travel,48,2024-07-08 11:01:27,91.35,56566,Burundi,4384.8
+320039,17100,Flashlight,Travel,13,2025-05-18 02:55:53,67.66,69429,Saint Vincent and the Grenadines,879.58
+223365,38864,Sunglasses,Travel,11,2025-07-16 08:59:50,1.71,13278,Saint Pierre and Miquelon,18.81
+207348,84847,Blanket,Clothing,23,2024-10-10 13:04:24,58.04,30379,Anguilla,1334.92
+397027,42591,Back Scratcher,Office Supplies,11,2024-07-23 08:25:55,19.97,94939,Saint Pierre and Miquelon,219.67
+153190,73624,Notebook,Clothing,31,2025-07-08 21:10:16,22.21,23434,Anguilla,688.51
+547181,76542,Gloves,Travel,46,2023-12-13 14:55:06,91.35,97841,Czech Republic,4202.1
+567493,54473,Tripod,Electronics,20,2025-03-11 14:44:31,80.26,38893,Czech Republic,1605.2
+659399,22899,Water Bottle,Travel,49,2025-06-11 03:25:44,7.0,58520,Anguilla,343.0
+832534,11934,Raincoat,Clothing,30,2024-08-14 16:34:22,96.93,32431,Czech Republic,2907.9
+342948,92719,Calculator,Electronics,10,2024-07-26 13:54:30,6.83,94939,Saint Vincent and the Grenadines,68.3
+292259,98039,Slippers,Sports,43,2024-02-29 07:40:50,65.34,57052,Falkland Islands (Malvinas),2809.62
+598424,69470,Pen,Travel,31,2025-03-17 22:08:06,1.32,36062,Saint Vincent and the Grenadines,40.92
+702593,98039,Slippers,Sports,7,2024-02-20 00:52:57,65.34,38785,Burundi,457.38
+780999,36365,Desk Organizer,Sports,20,2025-05-25 08:10:44,71.58,82357,Czech Republic,1431.6
+355528,26483,Desk Lamp,Sports,31,2024-12-19 06:52:14,13.71,89131,Anguilla,425.01
+552091,54473,Tripod,Electronics,28,2024-03-14 09:27:29,80.26,89131,Ecuador,2247.28
+794799,26483,Desk Lamp,Sports,48,2025-03-28 19:48:06,13.71,56566,Burundi,658.08
+725030,10074,Cutlery Set,Sports,36,2025-04-07 00:54:34,60.3,85674,Anguilla,2170.8
+172988,17989,Planner,Electronics,44,2024-09-19 21:43:58,75.05,62581,Burundi,3302.2
+776320,36365,Desk Organizer,Sports,6,2024-08-22 09:32:35,71.58,76237,Saint Pierre and Miquelon,429.48
+767033,82845,Cap,Sports,49,2024-12-10 19:26:15,66.53,13478,Falkland Islands (Malvinas),3259.97
+745474,80686,Clock,Travel,13,2024-02-13 19:51:58,75.77,22676,Saint Vincent and the Grenadines,985.01
+812569,11934,Raincoat,Clothing,28,2024-03-12 06:52:02,96.93,44671,Saint Pierre and Miquelon,2714.04
+741194,22363,Backpack,Sports,26,2024-07-18 15:49:10,10.6,23396,Northern Mariana Islands,275.6
+132699,80686,Clock,Travel,45,2025-02-16 05:26:25,75.77,89840,Saint Vincent and the Grenadines,3409.65
+500099,77839,Tote Bag,Clothing,14,2024-03-20 22:21:31,45.7,96673,Anguilla,639.8
+984293,84847,Blanket,Clothing,27,2024-02-10 03:16:37,58.04,31417,Anguilla,1567.08
+536056,17100,Flashlight,Travel,45,2024-04-28 20:39:06,67.66,91070,Czech Republic,3044.7
+544726,92719,Calculator,Electronics,29,2024-04-16 07:49:05,6.83,46463,Anguilla,198.07
+706012,56438,Book,Sports,47,2025-07-05 15:13:36,42.93,40512,Saint Vincent and the Grenadines,2017.71
+704349,30289,Yoga Mat,Clothing,3,2024-10-04 13:10:02,19.8,83000,Falkland Islands (Malvinas),59.4
+824038,71993,Mug,Clothing,47,2023-10-13 14:04:35,80.94,14207,Burundi,3804.18
+182034,92719,Calculator,Electronics,40,2023-11-27 11:28:46,6.83,96673,Czech Republic,273.2
+801200,22899,Water Bottle,Travel,41,2023-12-07 03:41:14,7.0,37460,Saint Vincent and the Grenadines,287.0
+460234,76542,Gloves,Travel,1,2024-02-07 15:01:35,91.35,23238,Saint Pierre and Miquelon,91.35
+447617,71993,Mug,Clothing,19,2024-06-04 12:17:43,80.94,39256,Czech Republic,1537.86
+418841,56438,Book,Sports,37,2025-02-01 00:09:43,42.93,89840,Falkland Islands (Malvinas),1588.41
+154127,50306,Belt,Clothing,19,2023-12-08 16:29:47,24.71,19358,Northern Mariana Islands,469.49
+232981,14117,Mouse Pad,Electronics,18,2025-02-10 16:36:26,86.1,94939,Saint Vincent and the Grenadines,1549.8
+114892,44760,Hoodie,Sports,39,2024-01-25 04:22:14,92.73,97841,Burundi,3616.47
+487728,22899,Water Bottle,Travel,17,2023-09-30 21:18:45,7.0,30926,Falkland Islands (Malvinas),119.0
+134697,11934,Raincoat,Clothing,6,2024-06-29 05:41:53,96.93,44993,Saint Pierre and Miquelon,581.58
+620039,12552,Charger,Home & Kitchen,27,2024-06-23 14:12:10,12.07,30926,Czech Republic,325.89
+275409,68800,Phone Case,Clothing,47,2024-04-25 00:04:34,14.88,23434,Czech Republic,699.36
+221628,68800,Phone Case,Clothing,30,2024-10-06 11:00:17,14.88,22156,Falkland Islands (Malvinas),446.4
+658388,17989,Planner,Electronics,44,2024-08-07 21:27:30,75.05,96673,Saint Vincent and the Grenadines,3302.2
+143010,54473,Tripod,Electronics,35,2023-09-29 08:43:01,80.26,57400,Czech Republic,2809.1
+385831,17100,Flashlight,Travel,18,2024-01-19 15:40:20,67.66,54597,Czech Republic,1217.88
+910707,77839,Tote Bag,Clothing,16,2025-05-19 22:13:00,45.7,97841,Burundi,731.2
+810638,77391,Mirror,Travel,12,2024-07-03 08:02:34,24.56,13278,Czech Republic,294.72
+112542,31798,Jacket,Sports,34,2024-06-09 12:22:26,41.23,35203,Falkland Islands (Malvinas),1401.82
+364132,68800,Phone Case,Clothing,2,2025-07-14 19:24:42,14.88,98696,Saint Pierre and Miquelon,29.76
+976042,17100,Flashlight,Travel,39,2025-03-31 22:01:59,67.66,83000,Saint Pierre and Miquelon,2638.74
+734059,89818,Sneakers,Home & Kitchen,43,2024-11-07 16:01:45,20.69,32431,Ecuador,889.67
+216229,79615,Travel Pillow,Office Supplies,17,2025-02-02 05:29:17,16.59,42087,Saint Pierre and Miquelon,282.03
+389809,17100,Flashlight,Travel,45,2023-08-27 04:06:07,67.66,62581,Burundi,3044.7
+918656,89507,Keychain,Clothing,50,2025-06-07 10:38:33,42.89,59615,Saint Vincent and the Grenadines,2144.5
+952283,76542,Gloves,Travel,29,2025-06-26 00:37:48,91.35,38893,Czech Republic,2649.15
+615959,50306,Belt,Clothing,35,2025-03-28 15:43:02,24.71,87236,Czech Republic,864.85
+563031,31174,Floor Mat,Office Supplies,7,2024-11-01 03:38:45,54.4,21395,Ecuador,380.8
+509451,76542,Gloves,Travel,45,2024-08-16 11:32:48,91.35,20328,Ecuador,4110.75
+908442,14117,Mouse Pad,Electronics,28,2023-08-16 13:54:39,86.1,52504,Burundi,2410.8
+666366,11934,Raincoat,Clothing,25,2024-05-11 05:15:33,96.93,45093,Falkland Islands (Malvinas),2423.25
+476353,71993,Mug,Clothing,20,2024-03-30 22:32:35,80.94,89840,Bosnia and Herzegovina,1618.8
+483102,17100,Flashlight,Travel,22,2025-03-19 05:47:39,67.66,19116,Burundi,1488.52
+312987,80686,Clock,Travel,3,2024-06-09 21:52:40,75.77,42087,Anguilla,227.31
+211954,54473,Tripod,Electronics,23,2025-06-04 21:25:22,80.26,89840,Falkland Islands (Malvinas),1845.98
+137432,84364,Candle,Electronics,47,2025-07-04 13:24:10,94.75,30926,Falkland Islands (Malvinas),4453.25
+666809,76542,Gloves,Travel,32,2025-05-22 03:06:41,91.35,35203,Saint Pierre and Miquelon,2923.2
+455766,69470,Pen,Travel,47,2024-07-02 11:07:22,1.32,38657,Saint Vincent and the Grenadines,62.04
+648530,17100,Flashlight,Travel,44,2024-10-03 01:09:30,67.66,69429,Anguilla,2977.04
+175532,71993,Mug,Clothing,10,2025-03-14 14:42:07,80.94,46048,Falkland Islands (Malvinas),809.4
+148026,82845,Cap,Sports,42,2025-03-04 14:34:17,66.53,95181,Czech Republic,2794.26
+960607,82845,Cap,Sports,30,2024-10-09 04:38:38,66.53,97841,Northern Mariana Islands,1995.9
+219726,11934,Raincoat,Clothing,40,2025-04-24 06:37:24,96.93,38893,Falkland Islands (Malvinas),3877.2
+873774,11934,Raincoat,Clothing,21,2024-11-22 13:26:35,96.93,59735,Czech Republic,2035.53
+977057,10074,Cutlery Set,Sports,14,2025-07-09 08:24:59,60.3,97841,Anguilla,844.2
+387198,76542,Gloves,Travel,27,2024-01-30 07:08:21,91.35,80284,Ecuador,2466.45
+710256,38864,Sunglasses,Travel,7,2024-08-25 05:15:25,1.71,89840,Czech Republic,11.97
+397514,56438,Book,Sports,50,2024-03-10 23:52:58,42.93,40495,Anguilla,2146.5
+648496,17100,Flashlight,Travel,16,2024-07-15 12:34:17,67.66,94939,Czech Republic,1082.56
+852037,56438,Book,Sports,6,2024-08-23 05:01:22,42.93,22156,Falkland Islands (Malvinas),257.58
+347085,69470,Pen,Travel,34,2023-09-03 13:03:42,1.32,19358,Falkland Islands (Malvinas),44.88
+665940,22833,Plate,Office Supplies,30,2024-06-09 00:49:25,6.01,42087,Anguilla,180.3
+218152,76542,Gloves,Travel,44,2024-04-29 01:54:31,91.35,96673,Falkland Islands (Malvinas),4019.4
+145209,50306,Belt,Clothing,24,2025-01-12 12:42:28,24.71,57400,Saint Vincent and the Grenadines,593.04
+895248,56438,Book,Sports,7,2025-01-20 12:07:20,42.93,69429,Anguilla,300.51
+608623,11934,Raincoat,Clothing,5,2025-04-22 22:27:04,96.93,99733,Falkland Islands (Malvinas),484.65
+539422,71993,Mug,Clothing,44,2024-06-21 01:00:32,80.94,10851,Burundi,3561.36
+202827,36365,Desk Organizer,Sports,27,2025-02-24 11:43:09,71.58,26361,Saint Pierre and Miquelon,1932.66
+713513,49117,Camping Tent,Office Supplies,28,2023-12-18 04:39:24,84.33,94939,Falkland Islands (Malvinas),2361.24
+243030,77839,Tote Bag,Clothing,13,2025-05-25 20:09:40,45.7,30379,Anguilla,594.1
+825835,10074,Cutlery Set,Sports,18,2024-08-09 00:47:01,60.3,16006,Falkland Islands (Malvinas),1085.4
+460265,50306,Belt,Clothing,19,2025-07-26 05:29:53,24.71,93227,Saint Pierre and Miquelon,469.49
+706204,82845,Cap,Sports,15,2023-11-19 03:09:16,66.53,59823,Falkland Islands (Malvinas),997.95
+720317,20500,Earbuds,Electronics,30,2024-12-07 07:42:37,85.28,52504,Falkland Islands (Malvinas),2558.4
+359870,44760,Hoodie,Sports,38,2024-09-29 20:47:10,92.73,97841,Saint Pierre and Miquelon,3523.74
+105324,82845,Cap,Sports,3,2023-09-01 22:41:27,66.53,96673,Burundi,199.59
+546376,14117,Mouse Pad,Electronics,31,2025-07-16 10:22:45,86.1,93886,Burundi,2669.1
+352194,92719,Calculator,Electronics,49,2024-06-13 01:04:11,6.83,52504,Falkland Islands (Malvinas),334.67
+475815,73699,Scarf,Office Supplies,42,2024-11-13 17:40:51,81.79,46048,Falkland Islands (Malvinas),3435.18
+837468,80686,Clock,Travel,37,2024-10-23 09:01:44,75.77,42098,Saint Pierre and Miquelon,2803.49
+245357,92719,Calculator,Electronics,26,2025-01-07 23:12:40,6.83,80284,Czech Republic,177.58
+101429,42591,Back Scratcher,Office Supplies,5,2023-09-02 01:13:07,19.97,45382,Saint Vincent and the Grenadines,99.85
+546590,44522,Laptop Sleeve,Clothing,45,2023-10-16 04:53:38,97.22,93320,Czech Republic,4374.9
+817923,84364,Candle,Electronics,22,2024-12-23 05:43:18,94.75,98696,Ecuador,2084.5
+481671,82845,Cap,Sports,8,2024-07-09 21:55:16,66.53,16006,Czech Republic,532.24
+283781,98039,Slippers,Sports,46,2023-11-25 09:37:18,65.34,83000,Burundi,3005.64
+451199,10074,Cutlery Set,Sports,8,2025-06-15 07:16:49,60.3,17331,Saint Pierre and Miquelon,482.4
+836984,71993,Mug,Clothing,48,2024-08-04 14:40:58,80.94,57052,Falkland Islands (Malvinas),3885.12
+813269,89507,Keychain,Clothing,4,2023-12-31 03:40:28,42.89,44671,Falkland Islands (Malvinas),171.56
+969856,14117,Mouse Pad,Electronics,46,2023-09-20 01:22:24,86.1,69429,Saint Pierre and Miquelon,3960.6
+486028,92719,Calculator,Electronics,45,2024-03-01 01:39:54,6.83,81482,Anguilla,307.35
+191549,44760,Hoodie,Sports,12,2024-06-01 11:00:29,92.73,21395,Anguilla,1112.76
+830943,89507,Keychain,Clothing,10,2024-04-22 06:17:45,42.89,59823,Saint Pierre and Miquelon,428.9
+536770,69470,Pen,Travel,35,2024-01-23 09:38:01,1.32,96673,Falkland Islands (Malvinas),46.2
+776000,38864,Sunglasses,Travel,13,2024-07-30 04:12:35,1.71,10851,Burundi,22.23
+452192,77391,Mirror,Travel,22,2024-04-21 20:50:50,24.56,57052,Falkland Islands (Malvinas),540.32
+655919,22899,Water Bottle,Travel,29,2024-04-30 03:27:58,7.0,58520,Anguilla,203.0
+280079,11934,Raincoat,Clothing,15,2025-03-25 06:21:00,96.93,54118,Burundi,1453.95
+470274,76542,Gloves,Travel,11,2025-06-25 05:40:40,91.35,83563,Czech Republic,1004.85
+283877,80686,Clock,Travel,45,2024-06-01 11:25:29,75.77,13478,Anguilla,3409.65
+432006,10074,Cutlery Set,Sports,29,2024-03-15 03:04:45,60.3,81426,Anguilla,1748.7
+797883,42591,Back Scratcher,Office Supplies,23,2025-03-18 02:28:44,19.97,35203,Ecuador,459.31
+416208,50306,Belt,Clothing,2,2025-05-19 04:11:33,24.71,20458,Burundi,49.42
+435772,17989,Planner,Electronics,48,2024-07-04 10:32:16,75.05,40512,Saint Vincent and the Grenadines,3602.4
+596931,42591,Back Scratcher,Office Supplies,49,2024-02-23 22:40:55,19.97,56566,Czech Republic,978.53
+863933,11934,Raincoat,Clothing,29,2025-05-21 11:52:03,96.93,22280,Burundi,2810.97
+246195,82845,Cap,Sports,8,2023-10-14 14:50:34,66.53,82357,Czech Republic,532.24
+474754,26483,Desk Lamp,Sports,4,2024-08-11 07:09:17,13.71,64987,Czech Republic,54.84
+904357,26483,Desk Lamp,Sports,2,2023-08-27 01:19:50,13.71,35203,Czech Republic,27.42
+636648,17989,Planner,Electronics,32,2025-03-15 18:49:27,75.05,99593,Ecuador,2401.6
+799155,76542,Gloves,Travel,10,2024-10-03 23:29:59,91.35,91070,Falkland Islands (Malvinas),913.5
+398477,98039,Slippers,Sports,20,2023-09-21 10:56:45,65.34,31319,Bouvet Island (Bouvetoya),1306.8
+565798,68800,Phone Case,Clothing,27,2024-05-09 19:44:01,14.88,54118,Anguilla,401.76
+544420,68800,Phone Case,Clothing,27,2024-02-02 03:48:14,14.88,97841,Czech Republic,401.76
+417960,12552,Charger,Home & Kitchen,34,2024-12-28 23:33:51,12.07,81482,Saint Pierre and Miquelon,410.38
+494025,56438,Book,Sports,27,2023-10-04 07:08:20,42.93,30379,Falkland Islands (Malvinas),1159.11
+844747,84847,Blanket,Clothing,9,2025-04-09 19:14:22,58.04,26361,Saint Vincent and the Grenadines,522.36
+962767,14117,Mouse Pad,Electronics,38,2024-12-30 05:35:14,86.1,31319,Burundi,3271.8
+785572,92719,Calculator,Electronics,19,2025-03-19 19:55:33,6.83,47930,Saint Pierre and Miquelon,129.77
+129824,17100,Flashlight,Travel,18,2023-09-05 02:26:27,67.66,81482,Czech Republic,1217.88
+603825,98039,Slippers,Sports,17,2024-02-20 01:41:41,65.34,96673,Saint Pierre and Miquelon,1110.78
+491330,31798,Jacket,Sports,37,2024-01-13 20:21:08,41.23,46421,Anguilla,1525.51
+435209,76542,Gloves,Travel,45,2025-05-24 20:21:34,91.35,83563,Northern Mariana Islands,4110.75
+767153,98039,Slippers,Sports,23,2023-08-27 19:54:39,65.34,23396,Ecuador,1502.82
+638828,30289,Yoga Mat,Clothing,41,2024-12-06 14:32:10,19.8,14165,Czech Republic,811.8
+438277,50306,Belt,Clothing,44,2023-12-08 08:36:46,24.71,30379,Czech Republic,1087.24
+200488,54473,Tripod,Electronics,23,2024-02-13 06:48:00,80.26,13278,Anguilla,1845.98
+916639,80686,Clock,Travel,22,2023-11-18 00:55:46,75.77,83563,Bouvet Island (Bouvetoya),1666.94
+331854,12552,Charger,Home & Kitchen,36,2024-08-13 19:49:04,12.07,46434,Burundi,434.52
+836378,42591,Back Scratcher,Office Supplies,8,2025-01-12 23:37:02,19.97,21395,Anguilla,159.76
+118223,10074,Cutlery Set,Sports,20,2023-11-08 20:22:25,60.3,76237,Burundi,1206.0
+726680,47388,Picture Frame,Travel,22,2024-10-23 01:09:17,42.88,22156,Northern Mariana Islands,943.36
+333159,11934,Raincoat,Clothing,45,2024-01-28 07:09:12,96.93,10851,Saint Vincent and the Grenadines,4361.85
+182423,84364,Candle,Electronics,49,2024-08-07 04:51:42,94.75,21395,Northern Mariana Islands,4642.75
+552195,14117,Mouse Pad,Electronics,7,2025-02-05 06:58:19,86.1,42087,Ecuador,602.7
+224698,76542,Gloves,Travel,3,2024-02-27 00:43:43,91.35,31417,Northern Mariana Islands,274.05
